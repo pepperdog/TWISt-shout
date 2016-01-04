@@ -20,23 +20,23 @@ This Week In Swift for the week of 2015-12-28 to 2016-01-3
 
 * [[Mangling] Add a document that describes the proposed compressed mangling scheme. (41148a7)](https://github.com/apple/swift/commit/41148a71d763cfd787ee209ae1be2134cb2ae083)
 
-* [Improve dead store elimination compilation time. (310f48e)](github.com/apple/swift/commit/310f48eab05265eb5fb9f7bc273c6444147c8281)
+* [Improve dead store elimination compilation time. (310f48e)](https://github.com/apple/swift/commit/310f48eab05265eb5fb9f7bc273c6444147c8281)
 
   "Compilation time improvement: 1.7% to 1.5% of overall compilation time."
   
-* [There are simply too many locations and too many basic blocks in some functions for dead store elimination to handle.](github.com/apple/swift/commit/4ea79fec2bd99e812212ba3d568898e1aba72dd3)
+* [There are simply too many locations and too many basic blocks in some functions for dead store elimination to handle.](https://github.com/apple/swift/commit/4ea79fec2bd99e812212ba3d568898e1aba72dd3)
 
   "With this change. I see compilation time on StdlibUnitTest drops significantly. 50%+ drop in time spent in DSE in StdlibUnit with a release compiler."
   
 ###swift-corelibs
 
-* [implement the init(contentsOfFile) method in NSString](github.com/apple/swift-corelibs-foundation/commit/908209686841016f35e857f44d86230ad697e336)
+* [implement the init(contentsOfFile) method in NSString](https://github.com/apple/swift-corelibs-foundation/commit/908209686841016f35e857f44d86230ad697e336)
 
-* [Implemented various sorting methods for the NSMutableArray class.](github.com/apple/swift-corelibs-foundation/commit/0cc2416fe389e77ecf5f5b04144accc0d771c728)
+* [Implemented various sorting methods for the NSMutableArray class.](https://github.com/apple/swift-corelibs-foundation/commit/0cc2416fe389e77ecf5f5b04144accc0d771c728)
 
-* [NSStringFromPoint/Size/Rect and NSPoint/Size/RectFromString](github.com/apple/swift-corelibs-foundation/commit/b5f7cc47653c47932be0ad92da0048563cb329cd)
+* [NSStringFromPoint/Size/Rect and NSPoint/Size/RectFromString](https://github.com/apple/swift-corelibs-foundation/commit/b5f7cc47653c47932be0ad92da0048563cb329cd)
 
-* [CFGetRetainCount should not be available in the swift version of CF/Foundation](github.com/apple/swift-corelibs-foundation/commit/d430c06fe417e285c5b120ccbf1d1082807e3b5c)
+* [CFGetRetainCount should not be available in the swift version of CF/Foundation](https://github.com/apple/swift-corelibs-foundation/commit/d430c06fe417e285c5b120ccbf1d1082807e3b5c)
 
 ##Evolution
 
