@@ -28,10 +28,6 @@ This Week In Swift for the week of 2015-12-28 to 2016-01-3
 
   "With this change. I see compilation time on StdlibUnitTest drops significantly. 50%+ drop in time spent in DSE in StdlibUnit with a release compiler."
   
-###swift-build
-
-Nothing interesting this week
-
 ###swift-corelibs
 
 * [implement the init(contentsOfFile) method in NSString](github.com/apple/swift-corelibs-foundation/commit/908209686841016f35e857f44d86230ad697e336)
@@ -41,10 +37,6 @@ Nothing interesting this week
 * [NSStringFromPoint/Size/Rect and NSPoint/Size/RectFromString](github.com/apple/swift-corelibs-foundation/commit/b5f7cc47653c47932be0ad92da0048563cb329cd)
 
 * [CFGetRetainCount should not be available in the swift version of CF/Foundation](github.com/apple/swift-corelibs-foundation/commit/d430c06fe417e285c5b120ccbf1d1082807e3b5c)
-
-###swift-lldb
-
-Nothing interesting this week
 
 ##Evolution
 
