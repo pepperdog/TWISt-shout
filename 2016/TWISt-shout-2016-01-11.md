@@ -13,7 +13,9 @@ This Week In Swift for the week of 2016-12-04 to 2016-01-10
 
 * [Swift Docker Container](https://lists.swift.org/pipermail/swift-dev/Week-of-Mon-20151228/000577.html)
 
-* ['The Swift Programming Language' is available in Korean](https://lists.swift.org/pipermail/swift-dev/Week-of-Mon-20160104/000727.html)
+* [`The Swift Programming Language` is being translated into Mexican Spanish](https://github.com/Cananito/the-swift-programming-language-spanish-mx)
+
+* [`The Swift Programming Language` is available in Korean](https://lists.swift.org/pipermail/swift-dev/Week-of-Mon-20160104/000727.html)
 
 ##Code Updates
 
@@ -85,6 +87,20 @@ This Week In Swift for the week of 2016-12-04 to 2016-01-10
 
 * [Clarify interaction between comments & operators](https://github.com/jder/swift-evolution/blob/comments-and-operators/proposals/0000-clarify-comments-and-operators.md)
 
+* [XCTest Support for Swift Error Handling](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160104/006091.html)
+
+* [Importing Objective-C Lightweight Generics](https://github.com/DougGregor/swift-evolution/blob/importing-objc-generics/proposals/0000-importing-objc-generics.md)
+
+* [Add annotation for pure functions](https://github.com/therealbnut/swift/blob/therealbnut-pure-preproprosal/docs/proposals/PureKeyword.rst)
+
+* A series of three proposals from Matthew Johnson dealing with initialization:
+
+  * [Parameter Forwarding](https://github.com/anandabits/swift-evolution/blob/parameter-forwarding/proposals/NNNN-parameter-forwarding.md)
+  
+  * [Partial Initializers](https://github.com/anandabits/swift-evolution/blob/partial-initializers/proposals/NNNN-partial-initializers.md)
+  
+  * [Property Lists](https://github.com/anandabits/swift-evolution/blob/property-lists/proposals/NNNN-property-lists.md)
+
 ###Cocktail Chatter
 
 * Even after "replace ternary operator" has been added to the [Commonly Rejected Changes](https://github.com/apple/swift-evolution/blob/master/commonly_proposed.md) list, it continues on with over [100 new comments](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160104/005479.html).
@@ -97,4 +113,6 @@ This Week In Swift for the week of 2016-12-04 to 2016-01-10
   
 * [Turning autoreleasepool into a keyword for loops](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160104/005971.html)
 
+* [Prototyping what Swift can look like in educational	settings <hijack> "business applications market" flame](https://lists.swift.org/pipermail/swift-users/Week-of-Mon-20160104/000720.html)
 
+  This is an extremely entertaining and informative thread on the features of Swift versus other languages like Java or C#. Here's hoping this is the closest the lists get to a flame war.
