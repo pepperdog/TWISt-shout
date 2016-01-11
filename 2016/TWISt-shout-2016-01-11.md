@@ -113,6 +113,6 @@ This Week In Swift for the week of 2016-12-04 to 2016-01-10
   
 * [Turning autoreleasepool into a keyword for loops](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160104/005971.html)
 
-* [Prototyping what Swift can look like in educational	settings <hijack> "business applications market" flame](https://lists.swift.org/pipermail/swift-users/Week-of-Mon-20160104/000720.html)
+* [Prototyping what Swift can look like in educational	settings &lt;hijack&gt;business applications market flame&lt;hijack&gt;](https://lists.swift.org/pipermail/swift-users/Week-of-Mon-20160104/000720.html)
 
   This is an extremely entertaining and informative thread on the features of Swift versus other languages like Java or C#. Here's hoping this is the closest the lists get to a flame war.
