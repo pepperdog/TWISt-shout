@@ -63,8 +63,6 @@ This Week In Swift for the week of 2016-01-11 to 2016-01-17
 
 * [Add stableSort() to the standard library](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160104/006152.html)
 
-* [Referencing the Objective-C	selector of a method](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160111/006282.html)
-
 * [private(call) and internal(call)](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160111/006321.html)
 
 * [Importing Objective-C Lightweight Generics](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160111/006790.html)
