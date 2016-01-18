@@ -35,7 +35,7 @@ This Week In Swift for the week of 2016-01-11 to 2016-01-17
 
 ###New Proposals
 
-* SE-0022 [minor wording fixes, and a note about @selector](https://github.com/apple/swift-evolution/commit/3e2574e75cdb1f3cc31b8b9a7e042dda8ecc57ae)
+* SE-0022 [Referencing the Objective-C selector of a method](https://github.com/apple/swift-evolution/blob/master/proposals/0022-objc-selectors.md)
 
 ###Proposals Up For Review
 
@@ -50,8 +50,6 @@ This Week In Swift for the week of 2016-01-11 to 2016-01-17
 * SE-0020 2016-01-17 [Swift Language Version Build Configuration](https://github.com/apple/swift-evolution/blob/master/proposals/0020-if-swift-version.md)
 
 * SE-0021 2016-01-18 [Naming Functions with Argument Labels](https://github.com/apple/swift-evolution/blob/master/proposals/0021-generalized-naming.md)
-
-###Proposals Accepted
   
 ###Draft Proposals
 
