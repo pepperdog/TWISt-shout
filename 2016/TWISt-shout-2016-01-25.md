@@ -29,24 +29,19 @@ This Week In Swift for the week of 2016-01-18 to 2016-01-24
 
 * [SE-0020: Swift Language Version Build Configuration](https://github.com/apple/swift/commit/c32fb8e7b9a67907e8b6580a46717c6a345ec7c6)
 
-* [[docs] LibraryEvolution: Be more precise about "public".](https://github.com/apple/swift/commit/bd12f0c0f32f87ae5a44d8d0554c09a4e70153c2)
-* [[docs] LibraryEvolution: Fill out "Fixed-Layout Structs".](https://github.com/apple/swift/commit/2161cca82f0f35635dd993947f7a030a6deeaf49)
-* [[docs] LibraryEvolution: Drop the term "availability-pinned"](https://github.com/apple/swift/commit/0965907e5532ba4dd137aee5ee3ff3257bef0fdc)
-* [[docs] LibraryEvolution: All public entities must be versioned.](https://github.com/apple/swift/commit/da7326b07f320ea9d25d15e7ec1ce05fd775d141)
-
 * [[SR-69][Sema] Improved quality of diagnoses messages](https://github.com/apple/swift/commit/2b301938e05f8af0a3a102baca7896b64956fe52)
+
+* Docs LibraryEvolution
+  * [Be more precise about "public".](https://github.com/apple/swift/commit/bd12f0c0f32f87ae5a44d8d0554c09a4e70153c2)
+  * [Fill out "Fixed-Layout Structs".](https://github.com/apple/swift/commit/2161cca82f0f35635dd993947f7a030a6deeaf49)
+  * [Drop the term "availability-pinned"](https://github.com/apple/swift/commit/0965907e5532ba4dd137aee5ee3ff3257bef0fdc)
+  * [All public entities must be versioned.](https://github.com/apple/swift/commit/da7326b07f320ea9d25d15e7ec1ce05fd775d141)
   
 ###swift-corelibs
 
 * [Add an initial implementation of NSRegularExpression](https://github.com/apple/swift-corelibs-foundation/commit/b2dee1e6f4a30b9f8148e5de3639e49e49c815c7)
 
-###swift-build
-
-###swift-lldb
-
 ##Evolution
-
-###New Proposals
 
 ###Proposals Up For Review
 
