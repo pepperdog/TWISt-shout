@@ -50,7 +50,3 @@ This Week In Swift for the week of 2016-01-25 to 2016-01-31
 * [Remove implicit tuple splat behavior	from function applications](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160125/007856.html)
 
 * [Implementing `Comparable` On `NSOperatingSystemVersion`](https://github.com/rsmoz/swift-evolution/blob/master/proposals/implementing-comparable-on-NSOperatingSystemVersion.md)
-
-###Cocktail Chatter
-
-* [Thoughts on making NSOperatingSystemVersion Comparable?](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160125/007747.html)
