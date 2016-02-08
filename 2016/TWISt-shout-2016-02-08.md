@@ -19,17 +19,17 @@ This Week In Swift for the week of 2016-02-01 to 2016-02-07
 
 These are the number of commits per repository, with the top committers listed.
 
-swift:347 - Michael Gottesman (31), practicalswift (30), Slava Pestov (29)
-swift-corelibs-foundation:17 - Philippe Hausler (6), Enrico Granata (4), Tony Parker (3)
-swift-corelibs-libdispatch:2 - Pierre Habouzit (2)
-swift-corelibs-xctest:2 - Brian Gesiak (2)
-swift-package-manager:2 - Ankit Aggarwal (1), Daniel Dunbar (1)
-swift-clang:37 - Manman Ren (11), Devin Coughlin (5), Ben Langmuir (3)
-swift-llvm:44 - Rafael Espindola (6), Teresa Johnson (6), Gerolf Hoflehner (4)
-swift-lldb:9 - Michael Gottesman (5), Arnold Schwaighofer (3), Jim Ingham (1)
-swift-evolution:22 - Chris Lattner (5), Doug Gregor (4), Evan Maloney (2)
-swift-internals:3 - Mattt Thompson (2), Dave Abrahams (1)
-swift-3-api-guidelines-review:1 - Doug Gregor (1)
+* swift:347 - Michael Gottesman (31), practicalswift (30), Slava Pestov (29)
+* swift-corelibs-foundation:17 - Philippe Hausler (6), Enrico Granata (4), Tony Parker (3)
+* swift-corelibs-libdispatch:2 - Pierre Habouzit (2)
+* swift-corelibs-xctest:2 - Brian Gesiak (2)
+* swift-package-manager:2 - Ankit Aggarwal (1), Daniel Dunbar (1)
+* swift-clang:37 - Manman Ren (11), Devin Coughlin (5), Ben Langmuir (3)
+* swift-llvm:44 - Rafael Espindola (6), Teresa Johnson (6), Gerolf Hoflehner (4)
+* swift-lldb:9 - Michael Gottesman (5), Arnold Schwaighofer (3), Jim Ingham (1)
+* swift-evolution:22 - Chris Lattner (5), Doug Gregor (4), Evan Maloney (2)
+* swift-internals:3 - Mattt Thompson (2), Dave Abrahams (1)
+* swift-3-api-guidelines-review:1 - Doug Gregor (1)
 
 ###swift
   
@@ -39,11 +39,11 @@ swift-3-api-guidelines-review:1 - Doug Gregor (1)
 
 ###Proposals Up For Review
 
-* [Remove implicit tuple splat behavior from function applications](https://github.com/apple/swift-evolution/blob/master/proposals/0029-remove-implicit-tuple-splat.md)
+* SE-0029 [Remove implicit tuple splat behavior from function applications](https://github.com/apple/swift-evolution/blob/master/proposals/0029-remove-implicit-tuple-splat.md)
 
 ###Proposals Accepted
 
-* [Modernizing Swift's Debugging Identifiers](https://github.com/apple/swift-evolution/blob/master/proposals/0028-modernizing-debug-identifiers.md)
+* SE-0028 [Modernizing Swift's Debugging Identifiers](https://github.com/apple/swift-evolution/blob/master/proposals/0028-modernizing-debug-identifiers.md)
   
 ###Draft Proposals
 
@@ -61,7 +61,7 @@ swift-3-api-guidelines-review:1 - Doug Gregor (1)
 
 * Best word of 2016 so far: "[homoiconicity](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160201/009269.html)"
 
-* There is talk of implementing full Perl 6 Regular Expressions as a first class citizen in Swift!
+* There is talk of implementing full [Perl 6 Regular Expressions](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160201/008692.html) as a first class citizen in Swift!
 
 * If you're having trouble keeping up with the Swift mailing lists, you may want to try [Hirundo](https://stylemac.com/hirundo/).
 
