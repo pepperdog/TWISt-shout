@@ -1,0 +1,54 @@
+[submodule "swift-source/swift-corelibs-libdispatch"]
+	path = swift-source/swift-corelibs-libdispatch
+	url = https://github.com/apple/swift-corelibs-libdispatch
+[submodule "swift-source/swift"]
+	path = swift-source/swift
+	url = https://github.com/apple/swift
+[submodule "swift-source/swift-clang"]
+	path = swift-source/swift-clang
+	url = https://github.com/apple/swift-clang
+[submodule "swift-source/swift-llvm"]
+	path = swift-source/swift-llvm
+	url = https://github.com/apple/swift-llvm
+[submodule "swift-source/swift-corelibs-xctest"]
+	path = swift-source/swift-corelibs-xctest
+	url = https://github.com/apple/swift-corelibs-xctest
+[submodule "swift-source/swift-lldb"]
+	path = swift-source/swift-lldb
+	url = https://github.com/apple/swift-lldb
+[submodule "swift-source/swift-corelibs-foundation"]
+	path = swift-source/swift-corelibs-foundation
+	url = https://github.com/apple/swift-corelibs-foundation
+[submodule "swift-source/swift-3-api-guidelines-review"]
+	path = swift-source/swift-3-api-guidelines-review
+	url = https://github.com/apple/swift-3-api-guidelines-review
+[submodule "swift-source/swift-cmark"]
+	path = swift-source/swift-cmark
+	url = https://github.com/apple/swift-cmark
+[submodule "swift-source/swift-integration-tests"]
+	path = swift-source/swift-integration-tests
+	url = https://github.com/apple/swift-integration-tests
+[submodule "swift-source/swift-evolution"]
+	path = swift-source/swift-evolution
+	url = https://github.com/apple/swift-evolution
+[submodule "swift-source/swift-package-manager"]
+	path = swift-source/swift-package-manager
+	url = https://github.com/apple/swift-package-manager
+[submodule "swift-source/swift-llbuild"]
+	path = swift-source/swift-llbuild
+	url = https://github.com/apple/swift-llbuild
+[submodule "swift-source/swift-internals"]
+	path = swift-source/swift-internals
+	url = https://github.com/apple/swift-internals
+[submodule "swift-source/example-package-playingcard"]
+	path = swift-source/example-package-playingcard
+	url = https://github.com/apple/example-package-playingcard
+[submodule "swift-source/example-package-dealer"]
+	path = swift-source/example-package-dealer
+	url = https://github.com/apple/example-package-dealer
+[submodule "swift-source/example-package-fisheryates"]
+	path = swift-source/example-package-fisheryates
+	url = https://github.com/apple/example-package-fisheryates
+[submodule "swift-source/example-package-deckofplayingcards"]
+	path = swift-source/example-package-deckofplayingcards
+	url = https://github.com/apple/example-package-deckofplayingcards
