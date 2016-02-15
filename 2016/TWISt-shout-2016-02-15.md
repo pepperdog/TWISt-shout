@@ -86,6 +86,6 @@ This Week In Swift for the week of 2016-02-08 to 2016-02-14
   * [When to use argument labels,	part DEUX](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160201/009206.html)
   * [Guidelines, First Argument Labels: Prepositions inside the parens](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160208/009519.html)
   * [Case Conventions for Initialisms](https://gist.github.com/dabrahams/55fc5ece355da4664730)
-  * This thread generated over 130 comments! [ed/ing, InPlace, Set/SetAlgebra naming resolution](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160208/009684.html)
+  * [ed/ing, InPlace, Set/SetAlgebra naming resolution](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160208/009684.html) This thread generated over 130 comments!
 
 * Someone has named "Roberto Silva Blanch" has been the channel for some Spanish Spam hitting the lists. No idea what they're selling.
