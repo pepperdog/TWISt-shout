@@ -1,7 +1,7 @@
 #!/bin/sh
 
-STARTDATE="2016-02-01 00:00:00 PST"
-ENDDATE="2016-02-08 00:00:00 PST"
+STARTDATE="last Monday 00:00:00 PST"
+ENDDATE="last Sunday 23:59:59 PST"
 
 cd swift-source
 
@@ -31,10 +31,10 @@ do
 
     #echo "git log --oneline --since="${STARTDATE}" --until="${ENDDATE}" | wc -l | sed -e 's/ //g'"
     COMMITCOUNT=`git log --oneline --since="${STARTDATE}" --until="${ENDDATE}" | wc -l | sed -e 's/ //g'`
-    TOP_COMMITTERS=`git shortlog -n --after="${STARTDATE}" --until="${ENDDATE}" | grep '^\w' | head -3 | sed -e ':a' -e 'N' -e '$!ba' -e 's/:\n/, /g'`
+    TOP_COMMITTERS=`git shortlog -n --after="${STARTDATE}" --until="${ENDDATE}" | grep '^\w' | head -3 | sed 's/:/, /g' | tr -d '\012' | sed 's/..$//'`
 
     if [ ${COMMITCOUNT} != 0 ]; then 
-        echo "$i:${COMMITCOUNT} - ${TOP_COMMITTERS}"
+        echo "* $i:${COMMITCOUNT} - ${TOP_COMMITTERS}"
     fi
 
     cd ..
