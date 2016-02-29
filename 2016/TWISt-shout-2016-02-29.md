@@ -7,6 +7,8 @@ This is an extra-special edition, and won't come around again until 2044!
 
 ##Hot News
 
+* [Direct commit access expanded to non-Apple contributors.](http://article.gmane.org/gmane.comp.lang.swift.devel/1252) Does this mean it only happens once every four years?
+
 * Unable to build the Swift documentation? [See here](http://thread.gmane.org/gmane.comp.lang.swift.devel/1038)
 
 * New Swift [2.2 snapshots](http://article.gmane.org/gmane.comp.lang.swift.devel/1222) are available.
