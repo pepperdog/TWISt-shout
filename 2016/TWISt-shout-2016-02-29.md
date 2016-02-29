@@ -11,6 +11,8 @@ This is an extra-special edition, and won't come around again until 2044!
 
 * New Swift [2.2 snapshots](http://article.gmane.org/gmane.comp.lang.swift.devel/1222) are available.
 
+* After much, much debate, the proposal for [Property Behaviors](http://article.gmane.org/gmane.comp.lang.swift.evolution/7735) has been rejected.
+
 ##Code Updates
 
 * swift:274 - practicalswift (30), Dmitri Gribenko (28), Michael Gottesman (24)
@@ -83,4 +85,4 @@ instantiation.](https://github.com/apple/swift/commit/fc261045a5c19342a8d8f5a7a0
 * [Instance Operators](https://gist.github.com/vmartinelli/67d6ad234c7a4e14f8d5)
 
 ###Cocktail Chatter
-* The thread on making functions [@warn_unused_result by default](http://thread.gmane.org/gmane.comp.lang.swift.evolution/7746/focus=7993) 
+* The thread on making functions [@warn_unused_result by default](http://thread.gmane.org/gmane.comp.lang.swift.evolution/7746/focus=7993) heats up again.
