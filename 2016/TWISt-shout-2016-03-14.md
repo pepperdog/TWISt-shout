@@ -1,6 +1,8 @@
 # TWISt-shout Newsletter 2016-03-14
 This Week In Swift for the week of 2016-03-07 to 2016-03-13
 
+Welcome to the Pi Day Edition! There won't be another one until 2022!
+
 ##Hot News
 
 * The core team is [requesting a revision](http://article.gmane.org/gmane.comp.lang.swift.evolution/12010) to SE-0025 [Scoped Access Level](https://github.com/apple/swift-evolution/blob/master/proposals/0025-scoped-access-level.md)
@@ -25,9 +27,9 @@ This Week In Swift for the week of 2016-03-07 to 2016-03-13
 
 ###swift
 
-* [Implement support for generic typealiases](https://github.com/apple/swift/commit/fe9fe47b7e0297840916e3eec5444cb7483700e9)
+* SE-0048 [Implement support for generic typealiases](https://github.com/apple/swift/commit/fe9fe47b7e0297840916e3eec5444cb7483700e9)
 
-* [Applying API guidelines to The Standard Library](https://github.com/apple/swift/commit/91878390553a71df28a486eb1f3b356eb28395bf)
+* SE-0006 [Applying API guidelines to The Standard Library](https://github.com/apple/swift/commit/91878390553a71df28a486eb1f3b356eb28395bf)
 
 * SE-0040 [Replacing Equal Signs with Colons For Attribute Arguments](https://github.com/apple/swift/commit/b52fc6d321997b21ef56364a24e174726c022927)
 * [apply SE-0040 to stdlib](https://github.com/apple/swift/commit/276370b599dda18c517f9eb5c2e8c6ea5b930789)
