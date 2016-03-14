@@ -61,17 +61,15 @@ This Week In Swift for the week of 2016-03-07 to 2016-03-13
 
 ###Proposals Accepted
 
-* SE-0033 [Import Objective-C Constants as Swift Types](http://thread.gmane.org/gmane.comp.lang.swift.evolution/8817)
+* SE-0033 [Import Objective-C Constants as Swift Types](https://github.com/apple/swift-evolution/blob/master/proposals/0033-import-objc-constants.md)
 
 * SE-0039 [Modernizing Playground Literals](https://github.com/apple/swift-evolution/blob/master/proposals/0039-playgroundliterals.md)
 
 * SE-0040 [Replacing Equal Signs with Colons For Attribute Arguments](https://github.com/apple/swift-evolution/blob/master/proposals/0040-attributecolons.md)
 
-###Proposals Rejected
-
 ###Proposals Deferred
 
-* SE-0026 [Abstract classes and methods](http://article.gmane.org/gmane.comp.lang.swift.evolution/8809)
+* SE-0026 [Abstract classes and methods](https://github.com/apple/swift-evolution/blob/master/proposals/0026-abstract-classes-and-methods.md) [Announcement](http://article.gmane.org/gmane.comp.lang.swift.evolution/8809)
   
 ###Draft Proposals
 
