@@ -5,6 +5,8 @@ Welcome to the Pi Day Edition! There won't be another one until 2022!
 
 ##Hot News
 
+* I've been going blind searching for the Message-ID in my mail messages to open in gmane, so I made an [Automator Service](https://github.com/pepperdog/gmane-mail-service).
+
 * The core team is [requesting a revision](http://article.gmane.org/gmane.comp.lang.swift.evolution/12010) to SE-0025 [Scoped Access Level](https://github.com/apple/swift-evolution/blob/master/proposals/0025-scoped-access-level.md)
 
 * SE-0034 [Disambiguating Line	Control Statements from Debugging Identifiers](http://thread.gmane.org/gmane.comp.lang.swift.evolution/8156/focus=12014) has been revised by the core team after its acceptance.
