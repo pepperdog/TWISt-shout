@@ -24,6 +24,10 @@ This Week In Swift for the week of 2016-XX-XX to 2016-XX-XX
 ###Proposals Up For Review
 
 ###Proposals Accepted
+
+###Proposals Rejected
+
+###Proposals Deferred
   
 ###Draft Proposals
 
