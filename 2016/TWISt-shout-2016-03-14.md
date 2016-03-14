@@ -69,7 +69,8 @@ This Week In Swift for the week of 2016-03-07 to 2016-03-13
 
 ###Proposals Deferred
 
-* SE-0026 [Abstract classes and methods](https://github.com/apple/swift-evolution/blob/master/proposals/0026-abstract-classes-and-methods.md) [Announcement](http://article.gmane.org/gmane.comp.lang.swift.evolution/8809)
+* SE-0026 [Abstract classes and methods](https://github.com/apple/swift-evolution/blob/master/proposals/0026-abstract-classes-and-methods.md)
+  * The announcement is [here](http://article.gmane.org/gmane.comp.lang.swift.evolution/8809)
   
 ###Draft Proposals
 
