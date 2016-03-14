@@ -1,8 +1,6 @@
 # TWISt-shout Newsletter 2016-03-14
 This Week In Swift for the week of 2016-03-07 to 2016-03-13
 
-* update README status at https://github.com/apple/swift-evolution/blob/master/README.md
-
 ##Hot News
 
 * The core team is [requesting a revision](http://article.gmane.org/gmane.comp.lang.swift.evolution/12010) to SE-0025 [Scoped Access Level](https://github.com/apple/swift-evolution/blob/master/proposals/0025-scoped-access-level.md)
