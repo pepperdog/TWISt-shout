@@ -52,3 +52,9 @@
 [submodule "swift-source/example-package-deckofplayingcards"]
 	path = swift-source/example-package-deckofplayingcards
 	url = https://github.com/apple/example-package-deckofplayingcards
+[submodule "swift-source/swift-compiler-rt"]
+	path = swift-source/swift-compiler-rt
+	url = https://github.com/apple/swift-compiler-rt.git
+[submodule "swift-source/cups"]
+	path = swift-source/cups
+	url = https://github.com/apple/cups.git

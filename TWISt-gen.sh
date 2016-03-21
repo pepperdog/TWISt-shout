@@ -7,6 +7,7 @@ cd swift-source
 
 for i in \
     swift \
+    swift-compiler-rt \
     swift-corelibs-foundation \
     swift-corelibs-libdispatch \
     swift-corelibs-xctest \
@@ -20,6 +21,7 @@ for i in \
     swift-evolution \
     swift-internals \
     swift-3-api-guidelines-review \
+    cups \
     example-package-dealer \
     example-package-deckofplayingcards \
     example-package-fisheryates \
