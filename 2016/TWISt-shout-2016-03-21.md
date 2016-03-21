@@ -31,9 +31,9 @@ This Week In Swift for the week of 2016-03-14 to 2016-03-20
 
 ###New Proposals
 
-* [Change IteratorType post-nil guarantee](https://github.com/apple/swift-evolution/blob/master/proposals/0052-iterator-post-nil-guarantee.md)
+* SE-0052 [Change IteratorType post-nil guarantee](https://github.com/apple/swift-evolution/blob/master/proposals/0052-iterator-post-nil-guarantee.md)
 
-* [Remove explicit use of `let` from Function Parameters](https://github.com/apple/swift-evolution/blob/master/proposals/0053-remove-let-from-function-parameters.md)
+* SE-0053 [Remove explicit use of `let` from Function Parameters](https://github.com/apple/swift-evolution/blob/master/proposals/0053-remove-let-from-function-parameters.md)
 
 ###Proposals Up For Review
 
