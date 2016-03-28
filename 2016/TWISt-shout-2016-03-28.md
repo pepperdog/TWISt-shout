@@ -83,15 +83,13 @@ This Week In Swift for the week of 2016-03-21 to 2016-03-27
 
 * [Remove behavior on AnyObject that allows any Objective-C method to be called on it](http://thread.gmane.org/gmane.comp.lang.swift.evolution/12710)
 
-* [Allow trailing closures in 'guard'	conditions](http://thread.gmane.org/gmane.comp.lang.swift.evolution/12718)
-
 * [Adding a Build Configuration Import Test](http://thread.gmane.org/gmane.comp.lang.swift.evolution/12697)
 
-* [SwiftPM System Module Search Paths](httphttp://thread.gmane.org/gmane.comp.lang.swift.evolution/12778)
+* [SwiftPM System Module Search Paths](http://thread.gmane.org/gmane.comp.lang.swift.evolution/12778)
 
 ###Cocktail Chatter
 
-* We've finally reached the end of what looks like an [EPIC](http://thread.gmane.org/gmane.comp.lang.swift.devel/1174) [BUG](http://thread.gmane.org/gmane.comp.lang.swift.user/1410) [hunt](http://thread.gmane.org/gmane.comp.lang.swift.devel/1258).
+* We've finally reached the end of what looks like an [EPIC](http://thread.gmane.org/gmane.comp.lang.swift.devel/1174) [BUG](http://thread.gmane.org/gmane.comp.lang.swift.user/1410) [HUNT](http://thread.gmane.org/gmane.comp.lang.swift.devel/1258).
 
 * [Bike-shedding alternate collections API](http://thread.gmane.org/gmane.comp.lang.swift.evolution/12856)
 
