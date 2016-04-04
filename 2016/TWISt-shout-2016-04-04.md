@@ -1,9 +1,6 @@
 # TWISt-shout Newsletter 2016-04-04
 This Week In Swift for the week of 2016-03-26 to 2016-04-03
 
-* check out new proposals showing up at https://github.com/apple/swift-evolution/tree/master/proposals
-* update README status at https://github.com/apple/swift-evolution/blob/master/README.md
-
 ##Hot News
 
 * The core team has come to a [decision](http://thread.gmane.org/gmane.comp.lang.swift.evolution/12183/focus=13584) about SE-0025: Scoped Access Level.
