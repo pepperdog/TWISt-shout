@@ -1,10 +1,6 @@
 # TWISt-shout Newsletter 2016-04-11
 This Week In Swift for the week of 2016-04-04 to 2016-04-10
 
-* check out new stuff from https://gist.github.com/erica/4ee7bd4979a54c5466e6
-* check out new proposals showing up at https://github.com/apple/swift-evolution/tree/master/proposals
-* update README status at https://github.com/apple/swift-evolution/blob/master/README.md
-
 ##Hot News
 
 * [Notes from Swift core team 2016-04-05 design	discussion](http://thread.gmane.org/gmane.comp.lang.swift.evolution/13828)
