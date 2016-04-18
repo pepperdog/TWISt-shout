@@ -82,9 +82,9 @@ This Week In Swift for the week of 2016-04-11 to 2016-04-17
   
 ###Draft Proposals
 
-* [Operator precedence](https://github.com/Anton3/swift-evolution/blob/operator-precedence/proposals/operator-precedence.md) by [Антон Жилин](mailto:antonyzhilin@gmail.com)
+* [Operator precedence](https://github.com/Anton3/swift-evolution/blob/operator-precedence/proposals/NNNN-operator-precedence.md) by [Антон Жилин](mailto:antonyzhilin@gmail.com)
 
-* [Shadowing imported functions](https://github.com/Anton3/swift-evolution/blob/shadowing-imported-functions/proposals/NNNN-shadowing-imported-functions.md) by [Антон Жилин](mailto;antonyzhilin@gmail.com)
+* [Shadowing imported functions](https://github.com/Anton3/swift-evolution/blob/shadowing-imported-functions/proposals/NNNN-shadowing-imported-functions.md) by [Антон Жилин](mailto:antonyzhilin@gmail.com)
 
 * [Safer half-open range operator](https://github.com/luish/swift-evolution/blob/half-open-range-operator/proposals/nnnn-safer-half-open-range-operator.md) by [Luís Henrique Borges](mailto:lshsousa@gmail.com)
 
