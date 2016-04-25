@@ -71,6 +71,6 @@ This Week In Swift for the week of 2016-04-18 to 2016-04-24
 
 ###Cocktail Chatter
 
-* Brilliant idea: [Carriage Return in Collection Array Literal	Initializer](http://article.gmane.org/gmane.comp.lang.swift.evolution/15205)
+* Brilliant idea: [Carriage Return in Collection Array Literal	Initializer](http://thread.gmane.org/gmane.comp.lang.swift.evolution/15205)
 
 
