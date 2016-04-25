@@ -17,7 +17,6 @@ This Week In Swift for the week of 2016-04-18 to 2016-04-24
 * swift-integration-tests:2 - Todd Fiala (2)
 * swift-evolution:37 - Chris Lattner (10), Erica Sadun (9), Doug Gregor (6)
 * swift-internals:1 - Dave Abrahams (1)
-* cups:8 - Michael R Sweet (4), Michael Sweet (1), Santiago Vila (1)
 
 ###swift
 

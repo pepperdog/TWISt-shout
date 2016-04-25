@@ -21,7 +21,6 @@ for i in \
     swift-evolution \
     swift-internals \
     swift-3-api-guidelines-review \
-    cups \
     example-package-dealer \
     example-package-deckofplayingcards \
     example-package-fisheryates \
