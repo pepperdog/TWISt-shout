@@ -3,6 +3,8 @@ This Week In Swift for the week of 2016-04-25 to 2016-05-01
 
 ##Hot News
 
+* gmane appears to have been dead since Friday.
+
 * [New Swift snapshots available!](https://lists.swift.org/pipermail/swift-users/Week-of-Mon-20160425/001784.html)
 
 ##Code Updates
