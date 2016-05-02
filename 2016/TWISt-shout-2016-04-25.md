@@ -3,6 +3,8 @@ This Week In Swift for the week of 2016-04-18 to 2016-04-24
 
 ##Hot News
 
+* gmane appears to have been dead since Friday.
+
 * More [Swift core team design discussion](http://thread.gmane.org/gmane.comp.lang.swift.evolution/15009)
 
 ##Code Updates
