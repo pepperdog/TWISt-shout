@@ -95,9 +95,9 @@ This Week In Swift for the week of 2016-05-02 to 2016-05-08
 
 * [Typealiases in protocols and protocol extensions](http://thread.gmane.org/gmane.comp.lang.swift.evolution/16432) by [David Hart](mailto:david@hartbit.com)
 
-* [Swiftification: Drop NS Prefix in Swift Foundation](https://github.com/parkera/swift-evolution/blob/parkera/drop_ns/proposals/NNNN-drop-foundation-ns.md) by [Tony Parker](anthony.parker@apple.com)
+* [Swiftification: Drop NS Prefix in Swift Foundation](https://github.com/parkera/swift-evolution/blob/parkera/drop_ns/proposals/NNNN-drop-foundation-ns.md) by [Tony Parker](mailto:anthony.parker@apple.com)
 
-* [UnsafeBytePointer API for In-Memory Layout](http://article.gmane.org/gmane.comp.lang.swift.devel/1941)
+* [UnsafeBytePointer API for In-Memory Layout](http://article.gmane.org/gmane.comp.lang.swift.devel/1941) by [Andrew Trick](mailto:atrick@apple.com)
 
 ###Cocktail Chatter
 
