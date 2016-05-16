@@ -12,7 +12,7 @@ This Week In Swift for the week of 2016-05-09 to 2016-05-15
 * [Cross-compiling (nearly) everything for RPi from OSX](http://article.gmane.org/gmane.comp.lang.swift.devel/1966)
 
 * [The coolest under-the-hood improvement in Swift 3 is @bitjammer and @slava_pestov's out-of-process reflection infrastructure.](https://twitter.com/jckarter/status/731532782241873920)
-* * [Debuggers and memory tools can now look at a Swift binary or running process and explore its object graph:](https://twitter.com/jckarter/status/731532948877385730)
+  * [Debuggers and memory tools can now look at a Swift binary or running process and explore its object graph:](https://twitter.com/jckarter/status/731532948877385730)
 
 * Wait - they're adding [class properties to Objective-C?](https://github.com/apple/swift/commit/135e9b99f14fe322a325cf8651c850f45f40ee30)
 
