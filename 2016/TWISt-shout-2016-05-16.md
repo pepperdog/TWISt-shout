@@ -1,9 +1,6 @@
 # TWISt-shout Newsletter 2016-05-16
 This Week In Swift for the week of 2016-05-09 to 2016-05-15
 
-* check out new proposals showing up at https://github.com/apple/swift-evolution/tree/master/proposals
-* update README status at https://github.com/apple/swift-evolution/blob/master/README.md
-
 ##Hot News
 
 * [Winding down the Swift 3 release](http://thread.gmane.org/gmane.comp.lang.swift.evolution/17276)
@@ -15,7 +12,7 @@ This Week In Swift for the week of 2016-05-09 to 2016-05-15
 * [Cross-compiling (nearly) everything for RPi from OSX](http://article.gmane.org/gmane.comp.lang.swift.devel/1966)
 
 * [The coolest under-the-hood improvement in Swift 3 is @bitjammer and @slava_pestov's out-of-process reflection infrastructure.](https://twitter.com/jckarter/status/731532782241873920)
-* [Debuggers and memory tools can now look at a Swift binary or running process and explore its object graph:](https://twitter.com/jckarter/status/731532948877385730)
+* * [Debuggers and memory tools can now look at a Swift binary or running process and explore its object graph:](https://twitter.com/jckarter/status/731532948877385730)
 
 * Wait - they're adding [class properties to Objective-C?](https://github.com/apple/swift/commit/135e9b99f14fe322a325cf8651c850f45f40ee30)
 
@@ -106,4 +103,4 @@ This Week In Swift for the week of 2016-05-09 to 2016-05-15
 
 * [More lenient subscript methods over Collections](https://github.com/luish/swift-evolution/blob/more-lenient-subscripts/proposals/nnnn-more-lenient-collections-subscripts.md#detailed-design) by [Luis Henrique B. Sousa](mailto:lshsousa@gmail.com)
 
-* [https://raw.githubusercontent.com/DevAndArtist/swift-evolution/master/proposals/nnnn-mechanism-to-combine-types-and-protocols.md](https://github.com/DevAndArtist/swift-evolution/blob/master/proposals/nnnn-mechanism-to-combine-types-and-protocols.md) by [Adrian Zubarev](mailto:adrian.zubarev@devandartist.com]
+* [New mechanism to combine `Types` with/or `Protocols`](https://github.com/DevAndArtist/swift-evolution/blob/master/proposals/nnnn-mechanism-to-combine-types-and-protocols.md) by [Adrian Zubarev](mailto:adrian.zubarev@devandartist.com)
