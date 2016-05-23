@@ -13,7 +13,7 @@ This Week In Swift for the week of 2016-05-16 to 2016-05-22
 
 ##Swift Style
 
-* [Reducing the boilerplate for my ID types](http://thread.gmane.org/gmane.comp.lang.swift.user/1926)
+* [Reducing the boilerplate for my ID types](http://thread.gmane.org/gmane.comp.lang.swift.user/1926/focus=1928)
 
 ##Code Updates
 
@@ -36,7 +36,7 @@ This Week In Swift for the week of 2016-05-16 to 2016-05-22
 
 ###New Proposals
 
-* [Replace `protocol<P1,P2>` syntax with `Any<P1,P2>`](https://github.com/apple/swift-evolution/blob/master/proposals/0095-any-as-existential.md)
+* SE-0095 [Replace `protocol<P1,P2>` syntax with `Any<P1,P2>`](https://github.com/apple/swift-evolution/blob/master/proposals/0095-any-as-existential.md)
 
 ###Proposals Up For Review
 
@@ -74,7 +74,11 @@ This Week In Swift for the week of 2016-05-16 to 2016-05-22
   
 ###Draft Proposals
 
-* [Moving `dynamicType` to the standard library](https://twitter.com/kimbrunhuber/status/734058342390235136) by [Erica Sadun](mailto:erica@ericasadun.com)
+* [Adopting consistent keyword casing in Swift](https://gist.github.com/erica/7fa61c3b74b2a2635dbea02120ac5407) by [Erica Sadun](mailto:erica@ericasadun.com)
+
+* [Normalizing naming for "negative" attributes](https://gist.github.com/erica/f31d580d7dcca3c416181a2973a185d5) by [Erica Sadun](mailto:erica@ericasadun.com)
+
+* [Moving `dynamicType` to the standard library](https://gist.github.com/erica/b0155e2f6d96c3d530fdafa9b3bd6272) by [Erica Sadun](mailto:erica@ericasadun.com)
 
 * [Disallow redundant `Any<...>` constructs](https://github.com/DevAndArtist/swift-evolution/blob/master/proposals/nnnn-ban-redundancy-in-any-existential.md) by [Adrian Zubarev](mailto:adrian.zubarev@devandartist.com)
 
