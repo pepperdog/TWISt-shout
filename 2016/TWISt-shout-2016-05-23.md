@@ -3,8 +3,6 @@ This Week In Swift for the week of 2016-05-16 to 2016-05-22
 
 ##Hot News
 
-* Things you may have missed on the [ADC Swift Blog](http://thread.gmane.org/gmane.comp.lang.swift.evolution/17767/focus=17799)
-
 * [Automator service: "View Public Swift Commit"](http://thread.gmane.org/gmane.comp.lang.swift.devel/2048)
 
 * [A JIRA Dashboard for Core Libraries](https://bugs.swift.org/secure/Dashboard.jspa?selectPageId=10408)
