@@ -7,6 +7,8 @@ Memorial Day Edition!
 
 * We've hit 100 Swift Proposals!
 
+* There has been a huge volume of reviews and proposals in the last couple of weeks, but the Core Team says they will likely be slowing down in the next couple of weeks as WWDC rolls near.
+
 * Here are the JIRA dashboards again:
   * [swift-corelibs-xctest](https://bugs.swift.org/secure/Dashboard.jspa?selectPageId=10408)
   * [swift-corelibs-foundation](https://bugs.swift.org/secure/Dashboard.jspa?selectPageId=10410)
