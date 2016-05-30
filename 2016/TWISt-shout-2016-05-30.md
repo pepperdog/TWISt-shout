@@ -14,7 +14,7 @@ Memorial Day Edition!
 
 * Amendment to [SE-0022: Referencing the Objective-C selector of a method](http://thread.gmane.org/gmane.comp.lang.swift.evolution/18273)
 
-##Swift Style
+##Code Updates
 
 * swift:238 - Dmitri Gribenko (36), Slava Pestov (21), Saleem Abdulrasool (16)
 * swift-compiler-rt:2 - Kuba Brecka (1), swift-ci (1)
@@ -27,8 +27,6 @@ Memorial Day Edition!
 * swift-llbuild:2 - Daniel Dunbar (2)
 * swift-integration-tests:5 - Daniel Dunbar (5)
 * swift-evolution:42 - Chris Lattner (16), Erica Sadun (12), Doug Gregor (3)
-
-##Code Updates
 
 ### Commit Message of the Week
 
