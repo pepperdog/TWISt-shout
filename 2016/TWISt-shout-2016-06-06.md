@@ -3,6 +3,8 @@ This Week In Swift for the week of 2016-05-30 to 2016-06-05
 
 ##Hot News
 
+* [Google Sign-Up for the WWDC Meetup](http://goo.gl/forms/Oq6dK9fPNSCAVfL72)
+
 * Would you like to go to a [WWDC Meetup](http://thread.gmane.org/gmane.comp.lang.swift.evolution/19764)?
 
 * [Please remove your Swift build directory](http://thread.gmane.org/gmane.comp.lang.swift.corelibs/688)
