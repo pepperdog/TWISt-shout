@@ -7,7 +7,7 @@ Enjoy some light reading at the beach.
 
 ##Hot News
 
-* [Master-Next bots are now on the public ci](http://article.gmane.org/gmane.comp.lang.swift.devel/2299)
+* [Master-Next bots are now on the public ci](http://thread.gmane.org/gmane.comp.lang.swift.devel/2299)
 
 * [Building Swift now requires CMake 3.4.3](http://thread.gmane.org/gmane.comp.lang.swift.devel/2297)
 
@@ -56,7 +56,7 @@ Enjoy some light reading at the beach.
 
 * SE-0077 (July 4) Rereview of [Improved operator declarations](https://github.com/apple/swift-evolution/blob/master/proposals/0077-operator-precedence.md)
 
-* SE-0107 (July 4) [UnsafeRawPointer API](https://github.com/apple/swift-evolution/blob/master/proposals/0107-unsaferawpointer.md)\
+* SE-0107 (July 4) [UnsafeRawPointer API](https://github.com/apple/swift-evolution/blob/master/proposals/0107-unsaferawpointer.md)
 
 * SE-0108 (July 4) [Remove associated type inference](https://github.com/apple/swift-evolution/blob/master/proposals/0108-remove-assoctype-inference.md)
 
@@ -88,13 +88,13 @@ Enjoy some light reading at the beach.
 
 ###Proposals Rejected
 
-* SE-0105 [Removing Where Clauses from For-In Loops](http://article.gmane.org/gmane.comp.lang.swift.evolution/22467)
+* SE-0105 [Removing Where Clauses from For-In Loops](http://thread.gmane.org/gmane.comp.lang.swift.evolution/22467)
 
 ###Proposals Deferred
 
-* SE-0091 Returned for revision: [Improving operator requirements in protocols](http://article.gmane.org/gmane.comp.lang.swift.evolution/22766)
+* SE-0091 Returned for revision: [Improving operator requirements in protocols](http://thread.gmane.org/gmane.comp.lang.swift.evolution/22766)
 
-* SE-0101 "Rename sizeof and related functions to comply with API Guidelines" has involved into "[Reconfiguring `sizeof` and related functions into a unified `MemoryLayout` struct](http://article.gmane.org/gmane.comp.lang.swift.evolution/22503)"
+* SE-0101 "Rename sizeof and related functions to comply with API Guidelines" has involved into "[Reconfiguring `sizeof` and related functions into a unified `MemoryLayout` struct](http://thread.gmane.org/gmane.comp.lang.swift.evolution/22503)"
   
 ###Draft Proposals
 
