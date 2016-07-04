@@ -19,6 +19,20 @@ Enjoy some light reading at the beach.
 
 * [Ambiguous reference to member ‘map’](http://thread.gmane.org/gmane.comp.lang.swift.user/2390)
 
+## Pull Requests
+
+Courtesy [Karl Wagner](mailto:razielim@gmail.com)
+
+* [stdlib: Remove _StringCore from UnicodeScalarIndex](https://github.com/apple/swift/pull/3268)
+
+* [stdlib: Significant UTF8/16 decode speed-ups for iterator nil-guarantee](https://github.com/apple/swift/pull/3287)
+
+* [stdlib: Rewriting native hashed collection indices](https://github.com/apple/swift/pull/3046)
+
+* [Alloc stack optimization (for review)](https://github.com/apple/swift/pull/3289)
+
+* [stdlib: build multiple platform libraries simultaneously](https://github.com/apple/swift/pull/3316)
+
 ##Code Updates
 
 * swift:276 - swift-ci (53), Slava Pestov (26), Dmitri Gribenko (19)
