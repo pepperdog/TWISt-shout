@@ -62,7 +62,7 @@ This Week In Swift for the week of 2016-07-04 to 2016-07-10
 
 ###Draft Proposals
 
-* [Fix the Collection Partition API](http://thread.gmane.org/gmane.comp.lang.swift.evolution/23081) by [Nate Cook](natecook@gmail.com)
+* [Fix the Collection Partition API](http://thread.gmane.org/gmane.comp.lang.swift.evolution/23081) by [Nate Cook](mailto:natecook@gmail.com)
 
 * [SwiftPM Target Access Control](https://github.com/aciidb0mb3r/swift-evolution/blob/swiftpm-module-access-control/proposals/xxxx-swiftpm-target-access-control.md) by [Ankit Agarwal](mailto:ankit@ankit.im)
 
