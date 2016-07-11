@@ -9,6 +9,8 @@ This Week In Swift for the week of 2016-XX-XX to 2016-XX-XX
 
 ##Swift Style
 
+## Pull Requests
+
 ##Code Updates
 
 ### Commit Message of the Week
