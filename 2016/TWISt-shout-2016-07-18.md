@@ -45,7 +45,7 @@ This Week In Swift for the week of 2016-07-11 to 2016-07-17
 
 ##Evolution
 
-* You may want to check out this [Proposal status page](http://thread.gmane.org/gmane.comp.lang.swift.evolution/23910)
+* You may want to check out this [Proposal status page](http://apple.github.io/swift-evolution/)
 
 * SE-0111 Update + Commentary: [Remove type system	significance of function argument labels](http://thread.gmane.org/gmane.comp.lang.swift.evolution/23905)
 
