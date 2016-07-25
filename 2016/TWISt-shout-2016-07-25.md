@@ -55,7 +55,7 @@ This Week In Swift for the week of 2016-07-18 to 2016-07-24
 
 ###Proposals Up For Review
 
-* SE-0117 Third Review! (July 25) [Allow distinguishing between public access and public overridability](http://thread.gmane.org/gmane.comp.lang.swift.evolution/24528)
+* SE-0117 Third Review! (July 25) [Allow distinguishing between public access and public overridability](https://github.com/apple/swift-evolution/blob/master/proposals/0117-non-public-subclassable-by-default.md)
 
 * SE-0122 (July 24) [Use colons for subscript declarations](https://github.com/apple/swift-evolution/blob/master/proposals/0122-use-colons-for-subscript-type-declarations.md)
 
@@ -101,6 +101,6 @@ This Week In Swift for the week of 2016-07-18 to 2016-07-24
   
 ###Draft Proposals
 
-* Updated: [Qualified Imports Revisited](https://github.com/CodaFi/swift-evolution/blob/ab091043daa62158bd3337a2a2a467be3e16ff18/proposals/XXXX-qualified-imports.md)
+* Updated: [Qualified Imports Revisited](https://github.com/CodaFi/swift-evolution/blob/ab091043daa62158bd3337a2a2a467be3e16ff18/proposals/XXXX-qualified-imports.md) by [Robert Widmann](mailto:rwidmann@apple.com)
 
-* [Formalized Ordering](https://github.com/pyrtsa/swift-evolution/blob/ca89e7b3a1dffc99baa695a03544fcba75afd0f3/proposals/NNNN-formalized-ordering.md)
+* [Formalized Ordering](https://github.com/pyrtsa/swift-evolution/blob/ca89e7b3a1dffc99baa695a03544fcba75afd0f3/proposals/NNNN-formalized-ordering.md) by [Pyry Jahkola](mailto:pyry.jahkola@iki.fi)
