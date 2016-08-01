@@ -5,8 +5,7 @@ This Week In Swift for the week of 2016-07-25 to 2016-07-31
 
 * [End of source-breaking changes for Swift 3](https://lists.swift.org/pipermail/swift-evolution-announce/2016-July/000264.html)
 
-* [Wrapping up Swift 3 for swift-corelibs](https://lists.swift.org/pipermail/swift-corelibs-dev/Week-of-Mon-20160725/000812.html)
-  * The deadline for swift-corelibs-foundation API changes has been extended to `Aug 18`
+* [Wrapping up Swift 3 for swift-corelibs](https://lists.swift.org/pipermail/swift-corelibs-dev/Week-of-Mon-20160725/000812.html). The deadline for swift-corelibs-foundation API changes has been extended to `Aug 18`
 
 * [Looking back on Swift 3 and ahead to	Swift 4](https://lists.swift.org/pipermail/swift-evolution-announce/2016-July/000269.html)
 
@@ -16,8 +15,7 @@ This Week In Swift for the week of 2016-07-25 to 2016-07-31
 
 * [Implementation of SE-0111 requires some re-thinking.](https://lists.swift.org/pipermail/swift-dev/Week-of-Mon-20160725/002541.html)
 
-* [Performance testing via SwiftPM and XCTest](https://lists.swift.org/pipermail/swift-corelibs-dev/Week-of-Mon-20160718/000809.html)
-  * [Followup](https://lists.swift.org/pipermail/swift-corelibs-dev/Week-of-Mon-20160725/000810.html)
+* [Performance testing via SwiftPM and XCTest](https://lists.swift.org/pipermail/swift-corelibs-dev/Week-of-Mon-20160718/000809.html) and [Followup](https://lists.swift.org/pipermail/swift-corelibs-dev/Week-of-Mon-20160725/000810.html)
 
 ##Code Updates
 
@@ -42,13 +40,13 @@ This Week In Swift for the week of 2016-07-25 to 2016-07-31
   
 * [SE-0127: Remove withUnsafePointers and withUnsafeMutablePointers APIs](https://github.com/apple/swift/commit/112451c44afa951a7e6447e8b2dc7c52d756dd16)
   
-* [SE-0130: Implementation](https://github.com/apple/swift/commit/a798852cb42edbc23a11ddfe3dc2c1a6ab2eebd6)
+* [SE-0130: Replace repeating `Character` and `UnicodeScalar` forms of String.init](https://github.com/apple/swift/commit/a798852cb42edbc23a11ddfe3dc2c1a6ab2eebd6)
   
 * [SE-0099: Restructuring Condition Clauses - flip the switch from warnings to errors](https://github.com/apple/swift/commit/abea7199a7ecc80f069a2061259301235d0abc6e)
 
 * [SE-0134: Rename two UTF8-related properties on String ](https://github.com/apple/swift/commit/b0fdb80f7941f0f3a039d444bb2016fcbfca0700)
 
-* [SE-0101: Merge pull request #3854 from rintaro/SE-0101-memorylayout](https://github.com/apple/swift/commit/99dffd768217fd8840aac88f1c07e172f324476c)
+* [SE-0101: Reconfiguring `sizeof` and related functions into a unified `MemoryLayout` struct](https://github.com/apple/swift/commit/99dffd768217fd8840aac88f1c07e172f324476c)
 
 ##Evolution
 
