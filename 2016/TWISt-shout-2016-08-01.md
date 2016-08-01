@@ -84,8 +84,8 @@ This Week In Swift for the week of 2016-07-25 to 2016-07-31
   
 ###Draft Proposals
 
-* [SR-1961 Change String collection iterators to use custom types instead of IndexIterator](https://github.com/gottesmm/swift-evolution/blob/8277168808c9c2de007be0d116320dde8fda4316/proposals/NNNN-Change%20String%20collection%20iterators%20to%20use%20custom%20types%20instead%20of%20IndexIteratorT.md) by [Michael Gottesman](mgottesman@apple.com)
+* [SR-1961 Change String collection iterators to use custom types instead of IndexIterator](https://github.com/gottesmm/swift-evolution/blob/8277168808c9c2de007be0d116320dde8fda4316/proposals/NNNN-Change%20String%20collection%20iterators%20to%20use%20custom%20types%20instead%20of%20IndexIteratorT.md) by [Michael Gottesman](mailto:mgottesman@apple.com)
 
-* [Normalize Unicode Identifiers](https://gist.github.com/JoaoPinheiro/5f226f46c67d235a7039c775a4300800) by [João Pinheiro](joao@joaopinheiro.org)
+* [Normalize Unicode Identifiers](https://gist.github.com/JoaoPinheiro/5f226f46c67d235a7039c775a4300800) by [João Pinheiro](mailto:joao@joaopinheiro.org)
 
-* [Explicit Ownership Type Attribute](https://github.com/therealbnut/swift-evolution/blob/therealbnut-explicit-ownership/proposals/NNNN-explicit-ownership-type-attribute.md) by [Andrew Bennett](cacoyi@gmail.com)
+* [Explicit Ownership Type Attribute](https://github.com/therealbnut/swift-evolution/blob/therealbnut-explicit-ownership/proposals/NNNN-explicit-ownership-type-attribute.md) by [Andrew Bennett](mailto:cacoyi@gmail.com)
