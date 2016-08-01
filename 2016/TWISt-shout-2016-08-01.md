@@ -1,10 +1,6 @@
 # TWISt-shout Newsletter 2016-08-01
 This Week In Swift for the week of 2016-07-25 to 2016-07-31
 
-* check out new stuff from https://gist.github.com/erica/4ee7bd4979a54c5466e6
-* check out new proposals showing up at https://github.com/apple/swift-evolution/tree/master/proposals
-* update README status at https://github.com/apple/swift-evolution/blob/master/README.md
-
 ##Hot News
 
 * [End of source-breaking changes for Swift 3](https://lists.swift.org/pipermail/swift-evolution-announce/2016-July/000264.html)
@@ -22,10 +18,6 @@ This Week In Swift for the week of 2016-07-25 to 2016-07-31
 
 * [Performance testing via SwiftPM and XCTest](https://lists.swift.org/pipermail/swift-corelibs-dev/Week-of-Mon-20160718/000809.html)
   * [Followup](https://lists.swift.org/pipermail/swift-corelibs-dev/Week-of-Mon-20160725/000810.html)
-
-##Swift Style
-
-## Pull Requests
 
 ##Code Updates
 
@@ -57,16 +49,8 @@ This Week In Swift for the week of 2016-07-25 to 2016-07-31
 * [SE-0134: Rename two UTF8-related properties on String ](https://github.com/apple/swift/commit/b0fdb80f7941f0f3a039d444bb2016fcbfca0700)
 
 * [SE-0101: Merge pull request #3854 from rintaro/SE-0101-memorylayout](https://github.com/apple/swift/commit/99dffd768217fd8840aac88f1c07e172f324476c)
-  
-###swift-corelibs
-
-###swift-build
-
-###swift-lldb
 
 ##Evolution
-
-###New Proposals
 
 ###Proposals Up For Review
 
@@ -107,6 +91,3 @@ This Week In Swift for the week of 2016-07-25 to 2016-07-31
 * [Normalize Unicode Identifiers](https://gist.github.com/JoaoPinheiro/5f226f46c67d235a7039c775a4300800) by [João Pinheiro](joao@joaopinheiro.org)
 
 * [Explicit Ownership Type Attribute](https://github.com/therealbnut/swift-evolution/blob/therealbnut-explicit-ownership/proposals/NNNN-explicit-ownership-type-attribute.md) by [Andrew Bennett](cacoyi@gmail.com)
-
-###Cocktail Chatter
-
