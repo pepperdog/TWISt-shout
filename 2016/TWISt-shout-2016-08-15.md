@@ -55,6 +55,6 @@ This Week In Swift for the week of 2016-08-08 to 2016-08-14
   
 ###Draft Proposals
 
-* A late proposal for Swift 3: [UnsafeBytes](https://github.com/atrick/swift-evolution/blob/unsafebytes/proposals/NNNN-UnsafeBytes.md) by [Andrew Trick](atrick@apple.com)
+* A late proposal for Swift 3: [UnsafeBytes](https://github.com/atrick/swift-evolution/blob/unsafebytes/proposals/NNNN-UnsafeBytes.md) by [Andrew Trick](mailto:atrick@apple.com)
 
-* [Union Type](https://github.com/frogcjn/swift-evolution/blob/master/proposals/xxxx-union-type.md) by [Cao Jiannan](frogcjn@163.com)
+* [Union Type](https://github.com/frogcjn/swift-evolution/blob/master/proposals/xxxx-union-type.md) by [Cao Jiannan](mailto:frogcjn@163.com)
