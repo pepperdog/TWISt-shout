@@ -1,10 +1,6 @@
 # TWISt-shout Newsletter 2016-08-22
 This Week In Swift for the week of 2016-08-15 to 2016-08-21
 
-* check out new stuff from https://gist.github.com/erica/4ee7bd4979a54c5466e6
-* check out new proposals showing up at https://github.com/apple/swift-evolution/tree/master/proposals
-* update README status at https://github.com/apple/swift-evolution/blob/master/README.md
-
 ##Hot News
 
 * [New Swift Snapshots Available!](https://lists.swift.org/pipermail/swift-users/Week-of-Mon-20160815/002943.html) Note that there are new snapshots from Aug. 18 besides the one included with Xcode 8.0 beta 6.
