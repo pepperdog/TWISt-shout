@@ -25,4 +25,6 @@ This Week In Swift for the week of 2016-09-05 to 2016-09-11
 
 ###Proposals Up For Review
 
-* SE-1038 (Extended to Sep 14) [UnsafeRawBufferPointer](https://github.com/apple/swift-evolution/blob/master/proposals/0138-unsaferawbufferpointer.md)
+* SE-0138 (Extended to Sep 14) [UnsafeRawBufferPointer](https://github.com/apple/swift-evolution/blob/master/proposals/0138-unsaferawbufferpointer.md)
+
+* [SE-0139](https://github.com/apple/swift-evolution/blob/master/proposals/0139-bridge-nsnumber-and-nsvalue.md) and [SE-0140](https://github.com/apple/swift-evolution/blob/master/proposals/0140-bridge-optional-to-nsnull.md) are not officially closed yet, so get your words in while you can.
