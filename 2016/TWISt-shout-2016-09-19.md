@@ -7,7 +7,7 @@ This Week In Swift for the week of 2016-09-12 to 2016-09-18
 
 * [Looking back on Swift 3 and ahead to Swift 4](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160725/025676.html)
 
-* [Swift from two to three](https://itunes.apple.com/us/book/swift-from-two-to-three/id1154616188?mt=11) by [Erica Sadun](erica@ericasadun.com)
+* [Swift from two to three](https://itunes.apple.com/us/book/swift-from-two-to-three/id1154616188?mt=11) by [Erica Sadun](mailto:erica@ericasadun.com)
 
 ##Code Updates
 
