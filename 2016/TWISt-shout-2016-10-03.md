@@ -44,8 +44,6 @@ This Week In Swift for the week of 2016-09-26 to 2016-10-02
   
 ###Draft Proposals
 
-* [Refactor Metatypes](https://github.com/DevAndArtist/swift-evolution/blob/refactor_metatypes/proposals/0126-refactor-metatypes.md) by [Adrian Zubarev](adrian.zubarev@devandartist.com)
-
 * [Introducing `indexed()` collections](https://gist.github.com/erica/2b2d92e6db787d001c689d3e37a7c3f2) [Erica Sadun](mailto:erica@ericasadun.com)
 
 ###Cocktail Chatter
