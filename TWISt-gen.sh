@@ -35,8 +35,8 @@ do
     git pull > /dev/null 2>&1
 
     #echo "git log --oneline --since="${STARTDATE}" --until="${ENDDATE}" | wc -l | sed -e 's/ //g'"
-    COMMITCOUNT=`git log --oneline --since="${STARTDATE}" --until="${ENDDATE}" | wc -l | sed -e 's/ //g'`
-    TOP_COMMITTERS=`git shortlog -n --after="${STARTDATE}" --until="${ENDDATE}" | grep '^\w' | head -3 | sed 's/:/, /g' | tr -d '\012' | sed 's/..$//'`
+    COMMITCOUNT=`git log --no-merges --oneline --since="${STARTDATE}" --until="${ENDDATE}" | wc -l | sed -e 's/ //g'`
+    TOP_COMMITTERS=`git shortlog --no-merges -n --after="${STARTDATE}" --until="${ENDDATE}" | grep '^\w' | grep -v practicalswift | head -3 | sed 's/:/, /g' | tr -d '\012' | sed 's/..$//'`
 
     if [ ${COMMITCOUNT} != 0 ]; then 
         echo "* $i:${COMMITCOUNT} - ${TOP_COMMITTERS}"
