@@ -7,14 +7,14 @@ This Week In Swift for the week of 2016-10-10 to 2016-10-16
 
 ##Code Updates
 
-* swift:249 - swift-ci (50), practicalswift (33), Michael Gottesman (26)
-* swift-corelibs-foundation:11 - Alex Blewitt (4), swift-ci (2), Dave Lee (1)
-* swift-corelibs-libdispatch:2 - Daniel A. Steffen (1), David Grove (1)
-* swift-package-manager:23 - Ankit Aggarwal (15), Daniel Dunbar (3), Bouke Haarsma (1)
-* swift-protobuf-runtime:68 - Thomas Van Lenten (48), Tony Allevato (19), Tim Kientzle (1)
-* swift-clang:51 - swift-ci (18), Arnold Schwaighofer (10), Daniel Marjamaki (5)
-* swift-llvm:6 - Adrian Prantl (2), swift-ci (2), Jordan Rose (1)
-* swift-lldb:2 - Todd Fiala (2)
+* swift:156 - Michael Gottesman (21), Doug Gregor (17), Graydon Hoare (15)
+* swift-corelibs-foundation:10 - Alex Blewitt (4), Jacopo Andrea Giola (2), Bouke Haarsma (1)
+* swift-corelibs-libdispatch:1 - David Grove (1)
+* swift-package-manager:15 - Ankit Aggarwal (9), Daniel Dunbar (2), Bouke Haarsma (1)
+* swift-protobuf-runtime:49 - Thomas Van Lenten (36), Tony Allevato (12), Tim Kientzle (1)
+* swift-clang:33 - Arnold Schwaighofer (10), Daniel Marjamaki (5), Manman Ren (3)
+* swift-llvm:4 - Adrian Prantl (2), Jordan Rose (1), Silviu Baranga (1)
+* swift-lldb:1 - Todd Fiala (1)
 * swift-llbuild:3 - Daniel Dunbar (3)
 * swift-evolution:8 - Chris Lattner (3), Ankur Patel (1), Bas Broek (1)
 
