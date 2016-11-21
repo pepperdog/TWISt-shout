@@ -45,9 +45,9 @@ This Week In Swift for the week of 2016-11-14 to 2016-11-20
 
 ###Proposals Up For Review
 
-* SE-0145 (Revised, Nov 28)[Package Manager Version Pinning](https://lists.swift.org/pipermail/swift-evolution-announce/2016-November/000297.html)
+* SE-0145 (Revised, Nov 28) [Package Manager Version Pinning](https://lists.swift.org/pipermail/swift-evolution-announce/2016-November/000297.html)
 
-* SE-146 [Package Manager Product Definitions](https://lists.swift.org/pipermail/swift-evolution-announce/2016-November/000296.html)
+* SE-146 (Nov 28) [Package Manager Product Definitions](https://lists.swift.org/pipermail/swift-evolution-announce/2016-November/000296.html)
 
 ###Proposals Accepted
 
