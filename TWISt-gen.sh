@@ -3,6 +3,9 @@
 STARTDATE="last Monday 00:00:00 PST"
 ENDDATE="last Sunday 23:59:59 PST"
 
+rm -rf commit-logs
+mkdir commit-logs
+
 cd swift-source
 
 for i in \
@@ -30,9 +33,14 @@ for i in \
     example-package-fisheryates \
     example-package-playingcard
 do
-    # echo "*** $i ***"
     cd $i
     git pull > /dev/null 2>&1
+
+    COMMITCOUNT_ALL=`git log --no-merges --oneline --since="${STARTDATE}" --until="${ENDDATE}" | wc -l | sed -e 's/ //g'`
+    if [ ${COMMITCOUNT_ALL} != 0 ]; then 
+	git log --since="${STARTDATE}" --until="${ENDDATE}" >> ../../commit-logs/${i}.txt
+	open -a TextMate ../../commit-logs/${i}.txt
+    fi
 
     #echo "git log --oneline --since="${STARTDATE}" --until="${ENDDATE}" | wc -l | sed -e 's/ //g'"
     COMMITCOUNT=`git log --no-merges --oneline --since="${STARTDATE}" --until="${ENDDATE}" | wc -l | sed -e 's/ //g'`
