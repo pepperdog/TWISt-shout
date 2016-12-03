@@ -24,8 +24,8 @@ for i in \
     swift-corelibs-xctest \
     swift-package-manager \
     swift-xcode-playground-support \
+    swift-protobuf \
     swift-protobuf-plugin \
-    swift-protobuf-runtime \
     swift-protobuf-test-conformance \
     swift-clang \
     swift-llvm \
