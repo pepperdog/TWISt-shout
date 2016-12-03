@@ -9,6 +9,7 @@ echo "Generating between dates ${STARTDATE} and ${ENDDATE}"
 rm -rf commit-logs
 mkdir commit-logs
 
+mkdir -p swift-source
 cd swift-source
 
 echo "${SEP}"
