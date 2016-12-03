@@ -10,17 +10,8 @@ rm -rf commit-logs
 mkdir commit-logs
 
 mkdir -p swift-source
+mkdir -p commit-logs
 cd swift-source
-
-echo "${SEP}"
-echo 'These are all the files that have changed in swift-corelibs-foundation'
-echo "${SEP}"
-cd swift-corelibs-foundation
-git pull > /dev/null 2>&1
-STARTREV=`git log --after="${STARTDATE}" --before="${ENDDATE}" --format=format:%H | head -1`
-  ENDREV=`git log --after="${STARTDATE}" --before="${ENDDATE}" --format=format:%H | tail -1`
-git diff --name-only ${STARTREV} ${ENDREV}
-cd ..
 
 echo "${SEP}"
 echo 'These are the change counts in all the projects'
@@ -50,6 +41,9 @@ for i in \
     example-package-fisheryates \
     example-package-playingcard
 do
+    if [ ! -d ${i} ]; then
+	git clone http://github.com/apple/${i}.git > /dev/null 2>&1
+    fi
     cd $i
     git pull > /dev/null 2>&1
 
@@ -76,4 +70,15 @@ do
 
     cd ..
 done
+
+
+echo "${SEP}"
+echo 'These are all the files that have changed in swift-corelibs-foundation'
+echo "${SEP}"
+cd swift-corelibs-foundation
+git pull > /dev/null 2>&1
+STARTREV=`git log --after="${STARTDATE}" --before="${ENDDATE}" --format=format:%H | head -1`
+  ENDREV=`git log --after="${STARTDATE}" --before="${ENDDATE}" --format=format:%H | tail -1`
+git diff --name-only ${STARTREV} ${ENDREV}
+cd ..
 
