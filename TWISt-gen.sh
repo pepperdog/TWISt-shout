@@ -1,13 +1,29 @@
 #!/bin/sh
 
-STARTDATE="last Monday 00:00:00 PST"
-ENDDATE="last Sunday 23:59:59 PST"
+SEP="************************"
+STARTDATE="2016-11-28T00:00:00+00:00"
+  ENDDATE="2016-12-05T00:00:00+00:00"
+
+echo "Generating between dates ${STARTDATE} and ${ENDDATE}"
 
 rm -rf commit-logs
 mkdir commit-logs
 
 cd swift-source
 
+echo "${SEP}"
+echo 'These are all the files that have changed in swift-corelibs-foundation'
+echo "${SEP}"
+cd swift-corelibs-foundation
+git pull > /dev/null 2>&1
+STARTREV=`git log --after="${STARTDATE}" --before="${ENDDATE}" --format=format:%H | head -1`
+  ENDREV=`git log --after="${STARTDATE}" --before="${ENDDATE}" --format=format:%H | tail -1`
+git diff --name-only ${STARTREV} ${ENDREV}
+cd ..
+
+echo "${SEP}"
+echo 'These are the change counts in all the projects'
+echo "${SEP}"
 for i in \
     swift \
     swift-compiler-rt \
@@ -36,19 +52,27 @@ do
     cd $i
     git pull > /dev/null 2>&1
 
-    COMMITCOUNT_ALL=`git log --no-merges --oneline --since="${STARTDATE}" --until="${ENDDATE}" | wc -l | sed -e 's/ //g'`
-    if [ ${COMMITCOUNT_ALL} != 0 ]; then 
-	git log --since="${STARTDATE}" --until="${ENDDATE}" >> ../../commit-logs/${i}.txt
-	open -a TextMate ../../commit-logs/${i}.txt
-    fi
-
-    #echo "git log --oneline --since="${STARTDATE}" --until="${ENDDATE}" | wc -l | sed -e 's/ //g'"
-    COMMITCOUNT=`git log --no-merges --oneline --since="${STARTDATE}" --until="${ENDDATE}" | wc -l | sed -e 's/ //g'`
-    TOP_COMMITTERS=`git shortlog --no-merges -n --after="${STARTDATE}" --until="${ENDDATE}" | grep '^\w' | grep -v practicalswift | head -3 | sed 's/:/, /g' | tr -d '\012' | sed 's/..$//'`
+    # Generate the short version of commit counts
+    COMMITCOUNT=`git log --no-merges --oneline --after="${STARTDATE}" --before="${ENDDATE}" | wc -l | sed -e "s/ //g"`
+    TOP_COMMITTERS=`git shortlog --no-merges -n --after="${STARTDATE}" --before="${ENDDATE}" | grep '^\w' | grep -v practicalswift | head -3 | sed 's/:/, /g' | tr -d '\012' | sed 's/..$//'`
 
     if [ ${COMMITCOUNT} != 0 ]; then 
         echo "* $i:${COMMITCOUNT} - ${TOP_COMMITTERS}"
     fi
 
+    # Spit out logs into a file for review
+    COMMITCOUNT_ALL=`git log --oneline --after="${STARTDATE}" --before="${ENDDATE}" | wc -l`
+    if [ ${COMMITCOUNT_ALL} != 0 ]; then
+	COMMITLOG="../../commit-logs/${i}.txt"
+	COMMIT_HASHES=`git log --reverse --after="${STARTDATE}" --before="${ENDDATE}" --format=format:%H`
+	for HASH in ${COMMIT_HASHES}; do
+	    echo "\n${SEP}" >> ${COMMITLOG}
+	    echo "http://github.com/apple/$i/commit/${HASH}" >> ${COMMITLOG}
+	    git log -1 ${HASH} | head -c 1024 >> ${COMMITLOG}
+	done
+	open -a TextMate ${COMMITLOG}
+    fi
+
     cd ..
 done
+
