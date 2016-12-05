@@ -34,18 +34,22 @@ These are the classes in swift-corelibs-foundation that have been updated:
 * [NSAttributedString](https://github.com/apple/swift-corelibs-foundation/commits/5f8656628c79bf4df3980efbf45dfb3eebd35766/Foundation/NSAttributedString.swift)
 * [NSCalendar](https://github.com/apple/swift-corelibs-foundation/commits/5f8656628c79bf4df3980efbf45dfb3eebd35766/Foundation/NSCalendar.swift)
 * [NSData](https://github.com/apple/swift-corelibs-foundation/commits/5f8656628c79bf4df3980efbf45dfb3eebd35766/Foundation/NSData.swift)
-* [NSDecimal](https://github.com/apple/swift-corelibs-foundation/blob/5f8656628c79bf4df3980efbf45dfb3eebd35766/Foundation/NSDecimal.swift)
+* [NSDecimal](https://github.com/apple/swift-corelibs-foundation/commits/5f8656628c79bf4df3980efbf45dfb3eebd35766/Foundation/NSDecimal.swift)
 * [NSDecimalNumber](https://github.com/apple/swift-corelibs-foundation/commits/5f8656628c79bf4df3980efbf45dfb3eebd35766/Foundation/NSDecimalNumber.swift)
 * [NSHTTPCookie](https://github.com/apple/swift-corelibs-foundation/commits/5f8656628c79bf4df3980efbf45dfb3eebd35766/Foundation/NSHTTPCookie.swift)
 * [NSTask](https://github.com/apple/swift-corelibs-foundation/commits/5f8656628c79bf4df3980efbf45dfb3eebd35766/Foundation/NSTask.swift)
 * [NSXMLParser](https://github.com/apple/swift-corelibs-foundation/commits/5f8656628c79bf4df3980efbf45dfb3eebd35766/Foundation/NSXMLParser.swift)
 * [TimeZone](https://github.com/apple/swift-corelibs-foundation/commits/5f8656628c79bf4df3980efbf45dfb3eebd35766/Foundation/TimeZone.swift)
 
+##User
+
+* [Accessing the bundle of the call-site](https://lists.swift.org/pipermail/swift-users/Week-of-Mon-20161128/004138.html)
+
 ##Dev
 
 * There is a very interesting thread on swift-dev and swift-corelibs-dev that has not seemed to make it to the archives called "Performance Refinement of Data". Some if it is shown in [swift-server-dev](https://lists.swift.org/pipermail/swift-server-dev/Week-of-Mon-20161128/000193.html). Here is the original [document](https://github.com/apple/swift-corelibs-foundation/blob/master/Docs/Performance%20Refinement%20of%20Data.md)
 
-* [Modify the build system to enable/disable ObjC interop for any platform](https://lists.swift.org/pipermail/swift-dev/Week-of-Mon-20161128/003567.html0)
+* [Modify the build system to enable/disable ObjC interop for any platform](https://lists.swift.org/pipermail/swift-dev/Week-of-Mon-20161128/003567.html)
 
 ##Server Dev
 
@@ -70,8 +74,6 @@ These are the classes in swift-corelibs-foundation that have been updated:
 * [Removing Setter/Observer Name Overrides](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20161128/029101.html)
 
 ###Cocktail Chatter
-
-* [Accessing the bundle of the call-site](https://lists.swift.org/pipermail/swift-users/Week-of-Mon-20161128/004138.html)
 
 * [throwing sequences aka Cursor](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20161128/029075.html)
 
