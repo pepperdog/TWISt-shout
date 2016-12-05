@@ -29,17 +29,17 @@ This Week In Swift for the week of 2016-11-28 to 2016-12-04
 ###swift-corelibs
 These are the classes in swift-corelibs-foundation that have been updated:
 
-* Calendar
-* Locale
-* NSAttributedString
-* NSCalendar
-* NSData
-* NSDecimal
-* NSDecimalNumber
-* NSHTTPCookie
-* NSTask
-* NSXMLParser
-* TimeZone
+* [Calendar](https://github.com/apple/swift-corelibs-foundation/commits/5f8656628c79bf4df3980efbf45dfb3eebd35766/Foundation/Calendar.swift)
+* [Locale](https://github.com/apple/swift-corelibs-foundation/commits/5f8656628c79bf4df3980efbf45dfb3eebd35766/Foundation/Locale.swift)
+* [NSAttributedString](https://github.com/apple/swift-corelibs-foundation/commits/5f8656628c79bf4df3980efbf45dfb3eebd35766/Foundation/NSAttributedString.swift)
+* [NSCalendar](https://github.com/apple/swift-corelibs-foundation/commits/5f8656628c79bf4df3980efbf45dfb3eebd35766/Foundation/NSCalendar.swift)
+* [NSData](https://github.com/apple/swift-corelibs-foundation/commits/5f8656628c79bf4df3980efbf45dfb3eebd35766/Foundation/NSData.swift)
+* [NSDecimal](https://github.com/apple/swift-corelibs-foundation/blob/5f8656628c79bf4df3980efbf45dfb3eebd35766/Foundation/NSDecimal.swift)
+* [NSDecimalNumber](https://github.com/apple/swift-corelibs-foundation/commits/5f8656628c79bf4df3980efbf45dfb3eebd35766/Foundation/NSDecimalNumber.swift)
+* [NSHTTPCookie](https://github.com/apple/swift-corelibs-foundation/commits/5f8656628c79bf4df3980efbf45dfb3eebd35766/Foundation/NSHTTPCookie.swift)
+* [NSTask](https://github.com/apple/swift-corelibs-foundation/commits/5f8656628c79bf4df3980efbf45dfb3eebd35766/Foundation/NSTask.swift)
+* [NSXMLParser](https://github.com/apple/swift-corelibs-foundation/commits/5f8656628c79bf4df3980efbf45dfb3eebd35766/Foundation/NSXMLParser.swift)
+* [TimeZone](https://github.com/apple/swift-corelibs-foundation/commits/5f8656628c79bf4df3980efbf45dfb3eebd35766/Foundation/TimeZone.swift)
 
 ##Dev
 
