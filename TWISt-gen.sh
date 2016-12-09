@@ -1,8 +1,11 @@
 #!/bin/sh
 
+# git log understands ISO8601 format dates
+# http://stackoverflow.com/questions/14618022/how-does-git-log-since-count
+
 SEP="************************"
-STARTDATE="2016-11-28T00:00:00+00:00"
-  ENDDATE="2016-12-05T00:00:00+00:00"
+STARTDATE=`pdate "last Monday minus one week"`
+  ENDDATE=`pdate "last Monday"`
 
 echo "Generating between dates ${STARTDATE} and ${ENDDATE}"
 
