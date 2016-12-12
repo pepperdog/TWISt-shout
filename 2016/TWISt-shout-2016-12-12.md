@@ -28,7 +28,7 @@ This Week In Swift for the week of 2016-12-05 to 2016-12-11
 
 ### Commit Message of the Week
 
-* [Bumping the version to Swift 3.1](http://github.com/apple/swift/commit/e1ce10f34a50dcfa54f1ceee963866c40519cc7e])
+* [Bumping the version to Swift 3.1](http://github.com/apple/swift/commit/e1ce10f34a50dcfa54f1ceee963866c40519cc7e)
 
 ###swift
 
