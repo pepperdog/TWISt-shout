@@ -5,7 +5,7 @@ This Week In Swift for the week of 2016-12-05 to 2016-12-11
 
 * [Swift 3.1 Release process announced](https://lists.swift.org/pipermail/swift-dev/Week-of-Mon-20161205/003682.html). The correct URL for [the blog post is here](https://swift.org/blog/swift-3-1-release-process/)
 
-* [Ubuntu/Centos docker with swift 3](https://lists.swift.org/pipermail/swift-users/Week-of-Mon-20161212/004175.html)
+* [Ubuntu/Centos docker with swift 3](https://lists.swift.org/pipermail/swift-users/Week-of-Mon-20161212/004176.html)
 
 ##Swift Style
 
@@ -28,7 +28,7 @@ This Week In Swift for the week of 2016-12-05 to 2016-12-11
 
 ### Commit Message of the Week
 
-* [http://github.com/apple/swift/commit/e1ce10f34a50dcfa54f1ceee963866c40519cc7e](Bumping the version to Swift 3.1)
+* [Bumping the version to Swift 3.1](http://github.com/apple/swift/commit/e1ce10f34a50dcfa54f1ceee963866c40519cc7e])
 
 ###swift
 
@@ -42,11 +42,11 @@ This Week In Swift for the week of 2016-12-05 to 2016-12-11
   
 Let's just say there's been a lot of work in mangling.
   
-* [http://github.com/apple/swift/commit/d93a9fd103f3b6598558e30014fc3838ae69eb17](Mangling: use mangling macros for some more symbols in the runtime library)
+* [Mangling: use mangling macros for some more symbols in the runtime library](http://github.com/apple/swift/commit/d93a9fd103f3b6598558e30014fc3838ae69eb17).
 
-* [http://github.com/apple/swift/commit/d03b55552414104dcbd63afa1f37acc77dbd49e7](Mangling: support of new mangling in the demangler.)
+* [Mangling: support of new mangling in the demangler](http://github.com/apple/swift/commit/d03b55552414104dcbd63afa1f37acc77dbd49e7).
 
-* [http://github.com/apple/swift/commit/5ac0c5b9b79c4dc2a00dc8caa20b76f0b3a468db](Mangling: wire up the new mangling in various places in the compiler, but still use the old mangling.)
+* [Mangling: wire up the new mangling in various places in the compiler, but still use the old mangling](http://github.com/apple/swift/commit/5ac0c5b9b79c4dc2a00dc8caa20b76f0b3a468db).
 
 * [Mangling: fix a problem with punycode encoded identifiers which begin with an underscore](http://github.com/apple/swift/commit/e7489462de317a6adb44436eaba810b8ae110e0c).
 
@@ -85,7 +85,7 @@ These are the classes in swift-corelibs-foundation that have been updated:
 
 * [SIL Ownership Model + Verifier](https://lists.swift.org/pipermail/swift-dev/Week-of-Mon-20161205/003648.html)
 
-* [https://lists.swift.org/pipermail/swift-dev/Week-of-Mon-20161205/003633.html](https://lists.swift.org/mailman/listinfo/swift-dev)
+* [SILValue SSA Instructions](https://lists.swift.org/pipermail/swift-dev/Week-of-Mon-20161205/003633.html)
 
 ##Server Dev
 
