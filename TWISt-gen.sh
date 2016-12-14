@@ -4,6 +4,8 @@
 # http://stackoverflow.com/questions/14618022/how-does-git-log-since-count
 
 SEP="************************"
+#STARTDATE="2016-12-05T00:00:00Z"
+#  ENDDATE="2016-12-12T00:00:00Z"
 STARTDATE=`pdate "last Monday minus one week"`
   ENDDATE=`pdate "last Monday"`
 
@@ -73,15 +75,4 @@ do
 
     cd ..
 done
-
-
-echo "${SEP}"
-echo 'These are all the files that have changed in swift-corelibs-foundation'
-echo "${SEP}"
-cd swift-corelibs-foundation
-git pull > /dev/null 2>&1
-STARTREV=`git log --after="${STARTDATE}" --before="${ENDDATE}" --format=format:%H | head -1`
-  ENDREV=`git log --after="${STARTDATE}" --before="${ENDDATE}" --format=format:%H | tail -1`
-git diff --name-only ${STARTREV} ${ENDREV}
-cd ..
 
