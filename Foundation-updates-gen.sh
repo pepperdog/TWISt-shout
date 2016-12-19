@@ -13,7 +13,8 @@ git pull > /dev/null 2>&1
 
 SWIFT_FILES=`find . -name '*.swift' -print`
 
-for i in ${SWIFT_FILES}; do
+for h in ${SWIFT_FILES}; do
+    i=`echo "${h}" | sed 's^\./^^'`
     #echo "git log --after="${STARTDATE}" --before="${ENDDATE}" --format=format:%H ${i}"
     logs=`git log --after="${STARTDATE}" --before="${ENDDATE}" --format=format:%s ${i} | tr '\n' '|' | sed 's/|/; /g'`
     if [ "${logs}" != "" ]; then

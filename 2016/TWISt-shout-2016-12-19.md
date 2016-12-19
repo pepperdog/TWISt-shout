@@ -40,13 +40,13 @@ This Week In Swift for the week of 2016-12-12 to 2016-12-18
 ###swift-corelibs
 Foundation classes updated this week:
 
-* [./NSCFDictionary](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/./NSCFDictionary.swift) - Fix another case of potential overload ambiguity.
-* [./NSCFSet](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/./NSCFSet.swift) - Cast a function argument in order to disambiguate the intended overload.
-* [./NSJSONSerialization](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/./NSJSONSerialization.swift) - Merge pull request #723 from djones6/json_numperf
-* [./NSPersonNameComponents](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/./NSPersonNameComponents.swift) - Implementation of unimplemented copy() function and added test
-* [./NSURL](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/./NSURL.swift) - Merge pull request #719 from saiHemak/nsurlqueryitem; Merge pull request #712 from naithar/NSURLQueryItem-NSCoding; [SR-3329] URLQueryItems are not getting encoded in to the URL
-* [./NSURLSession/NSURLSession](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/./NSURLSession/NSURLSession.swift) - downloadTask(withResumeData: ...) signature fixed
-* [./NSURLSession/NSURLSessionTask](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/./NSURLSession/NSURLSessionTask.swift) - Fix segmentation fault by replacing Error with NSError
+* [NSCFDictionary](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSCFDictionary.swift) - Fix another case of potential overload ambiguity.
+* [NSCFSet](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSCFSet.swift) - Cast a function argument in order to disambiguate the intended overload.
+* [NSJSONSerialization](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSJSONSerialization.swift) - Merge pull request #723 from djones6/json_numperf
+* [NSPersonNameComponents](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSPersonNameComponents.swift) - Implementation of unimplemented copy() function and added test
+* [NSURL](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSURL.swift) - Merge pull request #719 from saiHemak/nsurlqueryitem; Merge pull request #712 from naithar/NSURLQueryItem-NSCoding; [SR-3329] URLQueryItems are not getting encoded in to the URL
+* [NSURLSession/NSURLSession](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSURLSession/NSURLSession.swift) - downloadTask(withResumeData: ...) signature fixed
+* [NSURLSession/NSURLSessionTask](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSURLSession/NSURLSessionTask.swift) - Fix segmentation fault by replacing Error with NSError
 
 
 ###swift-protobuf
