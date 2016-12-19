@@ -1,7 +1,7 @@
 #!/bin/sh
 
 SEP="************************"
-STARTDATE=`pdate "last Monday minus two months"`
+STARTDATE=`pdate "last Monday minus one week"`
   ENDDATE=`pdate "last Monday"`
 
 echo "${SEP}"
@@ -11,7 +11,9 @@ echo "${SEP}"
 cd swift-source/swift-corelibs-foundation/Foundation
 git pull > /dev/null 2>&1
 
-for i in *.swift; do
+SWIFT_FILES=`find . -name '*.swift' -print`
+
+for i in ${SWIFT_FILES}; do
     #echo "git log --after="${STARTDATE}" --before="${ENDDATE}" --format=format:%H ${i}"
     logs=`git log --after="${STARTDATE}" --before="${ENDDATE}" --format=format:%s ${i} | tr '\n' '|' | sed 's/|/; /g'`
     if [ "${logs}" != "" ]; then
