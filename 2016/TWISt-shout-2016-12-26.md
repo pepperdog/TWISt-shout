@@ -1,5 +1,5 @@
 # TWISt-shout Newsletter 2016-12-26 Boxing Day Edition
-This Week In Swift for the week of 2016-12-19 to 2016-12-25
+The final This Week In Swift for 2016! This marks one full year of TWISt-shout!
 
 ##Hot News
 
@@ -25,7 +25,7 @@ This Week In Swift for the week of 2016-12-19 to 2016-12-25
 
 ###swift
 
-* [Add the SILOwnershipUseVerifier behind the -enable-semantic-sil flag](://github.com/apple/swift/commit/ef6462de47927cc785097e34830070d226ae5f29)
+* [Add the SILOwnershipUseVerifier behind the -enable-semantic-sil flag](http://github.com/apple/swift/commit/ef6462de47927cc785097e34830070d226ae5f29)
 
 * [IRGen: Allocate generic/resilient values on the stack instead of on the heap](http://github.com/apple/swift/commit/cd1037b799402f4d68322011ef1b196f94281cea)
 
