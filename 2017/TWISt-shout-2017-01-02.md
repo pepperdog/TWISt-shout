@@ -3,7 +3,7 @@ This Week In Swift for the week of 2016-12-26 to 2017-01-01
 
 ##Hot News
 
-'''Happy New Year'''
+**Happy New Year!**
 
 ##Code Updates
 
@@ -11,7 +11,7 @@ It is nice to see that virtually no work was done over the holidays!
 
 ##Evolution
 
-* [SE-0110 was implemented in apple/swift#6133](://github.com/apple/swift-evolution/commit/fae9c2448482f6055eec8eaf30309875c0280f9f). Uses the `-swift-version 4` command-line option.
+* [SE-0110 was implemented in apple/swift#6133](https://github.com/apple/swift-evolution/commit/fae9c2448482f6055eec8eaf30309875c0280f9f). Uses the `-swift-version 4` command-line option.
   
 ###Draft Proposals
 
