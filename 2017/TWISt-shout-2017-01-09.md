@@ -38,7 +38,7 @@ This Week In Swift for the week of 2017-01-02 to 2017-01-08
   * [SR-1924](https://bugs.swift.org/browse/SR-1924) [SILGen: Emit local types with a separate pass instead of while walking statements](http://github.com/apple/swift/commit/2517701cd4e91a3449c897c3a1ce89f3e85fec9d)
   * [SR-2733](https://bugs.swift.org/browse/SR-2733) [SIL: Fix SILType substitution bug with DynamicSelfType vs MetatypeType](http://github.com/apple/swift/commit/ab81426cbba3895084806ce7cee451a4d344285f)
   * [SR-2320](https://bugs.swift.org/browse/SR-2320) [SILGen: Fix dynamic calls of 'throwing' methods](http://github.com/apple/swift/commit/54754c549ba6cfc72602bd24debe6a5798a15bd7)
-  * [SR-3173](https://bugs.swift.org/browse/SR-3173) [SILGen: Fix calls to literal constructors defined in protocol extensions](://github.com/apple/swift/commit/4daf56b648be076833da21e60449e435a56417f0)
+  * [SR-3173](https://bugs.swift.org/browse/SR-3173) [SILGen: Fix calls to literal constructors defined in protocol extensions](https://github.com/apple/swift/commit/4daf56b648be076833da21e60449e435a56417f0)
   * [SR-2669](https://bugs.swift.org/browse/SR-2669) [SILGen: Don't try using materializeForSet with storage in an @objc protocol](http://github.com/apple/swift/commit/3b388df6415b4a0466414febd809ffda9e73c6e9)
   * [SR-2576](https://bugs.swift.org/browse/SR-2576) [Serialization: Associated types are never private.](http://github.com/apple/swift/commit/02c665ff28c2d02e6df7d3e4157162d5e9254e9a)
   * [SR-3203](https://bugs.swift.org/browse/SR-3203) [Sema: 'Never'-returning functions can be represented in Objective-C](http://github.com/apple/swift/commit/2c7aae4128947dcc8ce0cd86621ddc223cdeb388)
