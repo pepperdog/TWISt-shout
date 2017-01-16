@@ -46,7 +46,7 @@ This Week In Swift for the week of 2017-01-09 to 2017-01-15
 
 * [Pull #6634](https://github.com/apple/swift/pull/6634) [Infer selectors from protocols for property accessors too.](http://github.com/apple/swift/commit/1f2121377ea66c89a1f9560342d1896b480a2d6a)
 
-* [Pull #6182](https://github.com/apple/swift/pull/6182) [ClangImporter] Preserve the names of imported ObjC properties](http://github.com/apple/swift/commit/33ed7679336fcfaabe3f0adde61b09543ebd7886)
+* [Pull #6182](https://github.com/apple/swift/pull/6182) [ClangImporter: Preserve the names of imported ObjC properties](http://github.com/apple/swift/commit/33ed7679336fcfaabe3f0adde61b09543ebd7886)
 
 * [Pull #6764](https://github.com/apple/swift/pull/6764) [Deprecating M_PI and a few other constants in favor of better API](http://github.com/apple/swift/commit/0d0dc79ce8a232f6e990864aa61ff140fbc74a7b)
 
