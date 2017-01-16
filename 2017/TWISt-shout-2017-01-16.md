@@ -59,17 +59,17 @@ This Week In Swift for the week of 2017-01-09 to 2017-01-15
 * [CGFloat](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/CGFloat.swift) - Fix floating point types for powerpc
 * [CharacterSet](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/CharacterSet.swift) - Merge pull request #680 from xwu/characterset-subtraction
 * [Data](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/Data.swift) - Update for new rules on @inline(__always) function bodies
-* [NSFileHandle](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSFileHandle.swift) - [FileHandle] Update NSFileHandleReadCompletion to match the Darwin version
+* [NSFileHandle](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSFileHandle.swift) - Update NSFileHandleReadCompletion to match the Darwin version
 * [NSLocale](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSLocale.swift) - Change some global constants to type properties to match the Darwin version
 * [NSNotificationQueue](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSNotificationQueue.swift) - Rename PostingStyle constants to match the Darwin version; Rename `dequeueNotificationsMatching()` to `dequeueNotifications()`; Rename `enqueueNotification()` to `enqueue()`; Rename `defaultQueue()` method to `default` property; Rename Coalescing to NotificationCoalescing to match the Darwin version
 * [NSOperation](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSOperation.swift) - Change some global constants to type properties to match the Darwin version
 * [NSStream](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSStream.swift) - Rename `outputStreamToMemory()` to `toMemory()` to match the Darwin version
 * [NSString](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSString.swift) - Fix for [SR-3448] Crash in String.replacingOccurrences(of:with:) with emoji on Linux
 * [NSURLCredentialStorage](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSURLCredentialStorage.swift) - Change some global constants to type properties to match the Darwin version
-* [NSURLRequest](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSURLRequest.swift) - [NSURLRequest] Utilize restricted setters
+* [NSURLRequest](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSURLRequest.swift) - Utilize restricted setters
 * [NSURLSessionTask](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSURLSession/NSURLSessionTask.swift) - Utilize restricted setters; Update `cancel` to match the Darwin version (#768); Use `DispatchQueue.sync` overload which has a return value; URLSessionTaskPriority... constants should be class properties
 * [NSXMLParser](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSXMLParser.swift) - Fix `errorDomain` naming
-* [URL](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/URL.swift) - [URLResourceValues] Remove redundant NSCoding protocol from some existential types
+* [URL](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/URL.swift) - Remove redundant NSCoding protocol from some existential types
 
 ##Evolution
   
