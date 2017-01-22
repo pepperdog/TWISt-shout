@@ -19,7 +19,7 @@ This Week In Swift for the week of 2017-01-16 to 2017-01-22
 
 ## Pull Requests
 
-* [SE-0080](https://github.com/apple/swift-evolution/blob/master/proposals/0080-failable-numeric-initializers.md),[SR-1491](https://bugs.swift.org/browse/SR-1491) is now available in Swift 3.1 via this [pull request](https://github.com/apple/swift/pull/4314)
+* [SE-0080](https://github.com/apple/swift-evolution/blob/master/proposals/0080-failable-numeric-initializers.md)/[SR-1491](https://bugs.swift.org/browse/SR-1491) "Failable Numeric Conversion Initializers" is now available in Swift 3.1 via this [pull request](https://github.com/apple/swift/pull/4314)
 
 ##Code Updates
 
@@ -43,7 +43,7 @@ This Week In Swift for the week of 2017-01-16 to 2017-01-22
 
 ###Proposals Up For Review
 
-* SE-0148 (Jan 24) [Generic Subscripts](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170116/thread.html)
+* SE-0148 (Jan 24) [Generic Subscripts](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170116/030480.html)
   * The proposal link is broken. You can find it [here](https://github.com/apple/swift-evolution/blob/master/proposals/0148-generic-subscripts.md)
 
 ###Proposals Accepted
@@ -65,5 +65,5 @@ This Week In Swift for the week of 2017-01-16 to 2017-01-22
 * [Preconditions aborting process in server scenarios](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170116/030332.html)
   * [This response](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170116/030397.html) is particularly salient.
   
-* [Make the type-casting operator accept expressions on its right side](https://github.com/apple/swift-evolution/blob/master/proposals/0080-failable-numeric-initializers.md)
+* [Make the type-casting operator accept expressions on its right side](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170109/030146.html)
   * Thread continues [here](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170116/030479.html)
