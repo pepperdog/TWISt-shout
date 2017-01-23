@@ -13,10 +13,6 @@ This Week In Swift for the week of 2017-01-16 to 2017-01-22
 
 * You can make [closures from functions](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170109/030031.html), but it fails with default arguments. Thread continues [here](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170116/030509.html)
 
-## Pull Requests
-
-* [SE-0080](https://github.com/apple/swift-evolution/blob/master/proposals/0080-failable-numeric-initializers.md)/[SR-1491](https://bugs.swift.org/browse/SR-1491) 'Failable Numeric Conversion Initializers' is now available in Swift 3.1 via this [pull request](https://github.com/apple/swift/pull/4314)
-
 ##Code Updates
 
 * swift:180 - Michael Gottesman (28), Slava Pestov (19), Hugh Bellamy (13)
@@ -35,17 +31,19 @@ This Week In Swift for the week of 2017-01-16 to 2017-01-22
 
 ###swift
 
-* [SR-2860](https://bugs.swift.org/browse/SR-2860)[*/ in Swift documentation comment makes ObjC header file corrupt](http://github.com/apple/swift/commit/d51079356652826825854365ce405475539035bf)
+* [SE-0080](https://github.com/apple/swift-evolution/blob/master/proposals/0080-failable-numeric-initializers.md)/[SR-1491](https://bugs.swift.org/browse/SR-1491) 'Failable Numeric Conversion Initializers' is now available in Swift 3.1 via this [pull request](https://github.com/apple/swift/pull/4314)
 
-* [SR-3175](https://bugs.swift.org/browse/SR-3175) [Include signal # in subtask termination message](http://github.com/apple/swift/commit/3eba4fd3abdba4e768f67b7b5bb608a7329fb718)
+* [SR-2860](https://bugs.swift.org/browse/SR-2860) - [*/ in Swift documentation comment makes ObjC header file corrupt](http://github.com/apple/swift/commit/d51079356652826825854365ce405475539035bf)
 
-* [SR-3664](https://bugs.swift.org/browse/SR-3664) [update-checkout doesn't clone ninja repository](http://github.com/apple/swift/commit/cf70f1e7bc08a56051381a4b29e3a8fce9fbd5c6)
+* [SR-3175](https://bugs.swift.org/browse/SR-3175) - [Include signal # in subtask termination message](http://github.com/apple/swift/commit/3eba4fd3abdba4e768f67b7b5bb608a7329fb718)
+
+* [SR-3664](https://bugs.swift.org/browse/SR-3664) - [update-checkout doesn't clone ninja repository](http://github.com/apple/swift/commit/cf70f1e7bc08a56051381a4b29e3a8fce9fbd5c6)
 
 * [Clang importer: When importing a property as accessors, use accessor types](http://github.com/apple/swift/commit/609f9b5a844340b8f9f280b599c01981d59cf971)
   
 ###swift-corelibs
 
-* [SR-3628](https://bugs.swift.org/browse/SR-3628) [Dispatch crashes (guess: use-after-free in the libdispach overlay) on Linux](http://github.com/apple/swift-corelibs-libdispatch/commit/dac881a0ec3e41b669aac1f2d686e90e665f08ae)
+* [SR-3628](https://bugs.swift.org/browse/SR-3628) - [Dispatch crashes (guess: use-after-free in the libdispach overlay) on Linux](http://github.com/apple/swift-corelibs-libdispatch/commit/dac881a0ec3e41b669aac1f2d686e90e665f08ae)
 
 * [xctest: Add watchOS, tvOS, iOS platforms support](http://github.com/apple/swift-corelibs-xctest/commit/1f20d9b5ac2b5654b8ec5af20c05edab31d1bb47)
 
@@ -76,11 +74,11 @@ This Week In Swift for the week of 2017-01-16 to 2017-01-22
 
 ###The Mother Of All One-Pagers Award
 Goes to...
-* [Strings in Swift 4](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170116/030497.html)!
+* [Strings in Swift 4](https://github.com/apple/swift/blob/master/docs/StringManifesto.md)!
 
 ###Proposals Up For Review
 
-* SE-0148 (Jan 24) [Generic Subscripts](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170116/030480.html). The proposal link is broken. You can find it [here](https://github.com/apple/swift-evolution/blob/master/proposals/0148-generic-subscripts.md)
+* [SE-0148](https://github.com/apple/swift-evolution/blob/master/proposals/0148-generic-subscripts.md) (Jan 24) [Generic Subscripts](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170116/030480.html)
   
 ###Draft Proposals
 
