@@ -35,7 +35,7 @@ This Week In Swift for the week of 2017-01-23 to 2017-01-29
 
 ###swift
 
-* [ClangImporter] Prefer available enum elements over unavailable ones](http://github.com/apple/swift/commit/3411fc380e2ec331577ffad705b14d3f91235afb)
+* [ClangImporter: Prefer available enum elements over unavailable ones](http://github.com/apple/swift/commit/3411fc380e2ec331577ffad705b14d3f91235afb)
 
 * [http://github.com/apple/swift/commit/b428094f615c3ba5e5ab3849159e6966f6eeb55f](Add Ubuntu 14.04 support back)
 
