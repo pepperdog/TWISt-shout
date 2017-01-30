@@ -37,17 +37,19 @@ This Week In Swift for the week of 2017-01-23 to 2017-01-29
 
 * [ClangImporter: Prefer available enum elements over unavailable ones](http://github.com/apple/swift/commit/3411fc380e2ec331577ffad705b14d3f91235afb)
 
-* [http://github.com/apple/swift/commit/b428094f615c3ba5e5ab3849159e6966f6eeb55f](Add Ubuntu 14.04 support back)
+* [Add Ubuntu 14.04 support back)](http://github.com/apple/swift/commit/b428094f615c3ba5e5ab3849159e6966f6eeb55f)
 
 * [update-checkout: Add support for swift-4.0-branch](http://github.com/apple/swift/commit/390cd0543d09b8f940cb62aba1f7326d2bb92576)
 
 * [Add a new tool called SILLLVMGen that performs IRGen on a sil or sib file without adding any additional complexity.l](http://github.com/apple/swift/commit/8c0b29a895ccf8c8c8223dc2ceda14fb41a28719)
 
-* [Switch MetadataCache to use a global slab allocator.](://github.com/apple/swift/commit/ccbe5fcf73c50e6bd6f8cd1994bdd2fcd8f9ccf6)
+* [Switch MetadataCache to use a global slab allocator.](http://github.com/apple/swift/commit/ccbe5fcf73c50e6bd6f8cd1994bdd2fcd8f9ccf6)
   
 ###swift-corelibs
 
-* [URLSession test fest!](https://lists.swift.org/pipermail/swift-corelibs-dev/Week-of-Mon-20170123/001092.html). [Thread continuation](https://lists.swift.org/pipermail/swift-corelibs-dev/Week-of-Mon-20170123/001101.html)
+* Announcement: [URLSession test fest!](https://lists.swift.org/pipermail/swift-corelibs-dev/Week-of-Mon-20170123/001092.html). [Thread continuation](https://lists.swift.org/pipermail/swift-corelibs-dev/Week-of-Mon-20170123/001101.html)
+
+Code Changes
 
 * [Fix + and - operations on DispatchTime and DispatchWallTime](http://github.com/apple/swift-corelibs-libdispatch/commit/ceb1fac7aa57a875a4a23513de0946869cb21c19)
 
@@ -55,7 +57,7 @@ This Week In Swift for the week of 2017-01-23 to 2017-01-29
 
 * [Fixes inccorrect behavior of DispatchData.copyBytes() when the start index is not 0 and adds a test for that method](http://github.com/apple/swift-corelibs-libdispatch/commit/4a023ec999ce961e7c3c986bf4c0e975fee3829f)
 
-These are all the files that have changed in swift-corelibs-foundation
+These are all the classes that have changed in swift-corelibs-foundation
 * [NSCache](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSCache.swift) - Replace some AnyObject usages with Any to match the Darwin version
 * [NSCalendar](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSCalendar.swift) - Merge pull request #824 from ikesyo/nscalendar-operator-static-func; Calendar components from:to: date fix
 * [NSCoder](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSCoder.swift) - Merge branch 'master' into nscoder-doc; Add doc comments for NSCoder; Rename public APIs to match the Darwin version
@@ -77,17 +79,15 @@ These are all the files that have changed in swift-corelibs-foundation
 
 ##Server Dev
 
-* [Server Security API Group Meeting](https://lists.swift.org/pipermail/swift-server-dev/Week-of-Mon-20170130/000244.html). If you're interested, just read all of these: [Week of Jan 23](https://lists.swift.org/pipermail/swift-server-dev/Week-of-Mon-20170123/thread.html) [Week of Jan 30](https://lists.swift.org/pipermail/swift-server-dev/Week-of-Mon-20170130/thread.html)
+* [Server Security API Group Meeting](https://lists.swift.org/pipermail/swift-server-dev/Week-of-Mon-20170130/000244.html). If you're interested, just read all of these: [Week of Jan 23](https://lists.swift.org/pipermail/swift-server-dev/Week-of-Mon-20170123/thread.html), [Week of Jan 30](https://lists.swift.org/pipermail/swift-server-dev/Week-of-Mon-20170130/thread.html)
 
 ##Evolution
 
 * [Annotation of Warnings/Errors](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170123/030882.html)
 
-* [Swift ABI Stability Manifesto](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170123/030870.html) [Thread](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170123/030940.html) [Thread](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170123/030970.html)
+* [Swift ABI Stability Manifesto](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170123/030870.html), [Thread](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170123/030940.html), [Thread](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170123/030970.html)
 
 * [A case for postponing ABI stability](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170123/030718.html)
-
-###New Proposals
 
 ###Proposals Up For Review
 
