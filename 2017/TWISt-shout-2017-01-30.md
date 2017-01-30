@@ -37,7 +37,7 @@ This Week In Swift for the week of 2017-01-23 to 2017-01-29
 
 * [ClangImporter: Prefer available enum elements over unavailable ones](http://github.com/apple/swift/commit/3411fc380e2ec331577ffad705b14d3f91235afb)
 
-* [Add Ubuntu 14.04 support back)](http://github.com/apple/swift/commit/b428094f615c3ba5e5ab3849159e6966f6eeb55f)
+* [Add Ubuntu 14.04 support back](http://github.com/apple/swift/commit/b428094f615c3ba5e5ab3849159e6966f6eeb55f)
 
 * [update-checkout: Add support for swift-4.0-branch](http://github.com/apple/swift/commit/390cd0543d09b8f940cb62aba1f7326d2bb92576)
 
@@ -47,7 +47,9 @@ This Week In Swift for the week of 2017-01-23 to 2017-01-29
   
 ###swift-corelibs
 
-* Announcement: [URLSession test fest!](https://lists.swift.org/pipermail/swift-corelibs-dev/Week-of-Mon-20170123/001092.html). [Thread continuation](https://lists.swift.org/pipermail/swift-corelibs-dev/Week-of-Mon-20170123/001101.html)
+Announcement
+
+[URLSession test fest!](https://lists.swift.org/pipermail/swift-corelibs-dev/Week-of-Mon-20170123/001092.html) [Thread](https://lists.swift.org/pipermail/swift-corelibs-dev/Week-of-Mon-20170123/001101.html)
 
 Code Changes
 
