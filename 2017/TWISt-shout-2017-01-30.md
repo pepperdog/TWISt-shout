@@ -1,4 +1,4 @@
-# TWISt-shout Newsletter 2017-01-3-
+# TWISt-shout Newsletter 2017-01-30
 This Week In Swift for the week of 2017-01-23 to 2017-01-29
 
 ##Hot News
