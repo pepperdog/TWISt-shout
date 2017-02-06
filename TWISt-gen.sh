@@ -6,8 +6,8 @@
 SEP="************************"
 #STARTDATE="2016-12-05T00:00:00Z"
 #  ENDDATE="2016-12-12T00:00:00Z"
-STARTDATE=`pdate "last Monday minus one week"`
-  ENDDATE=`pdate "last Monday"`
+STARTDATE=`pdate "last Sunday minus one week"`
+  ENDDATE=`pdate "last Sunday"`
 
 echo "Generating between dates ${STARTDATE} and ${ENDDATE}"
 

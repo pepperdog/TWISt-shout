@@ -1,8 +1,8 @@
 #!/bin/sh
 
 SEP="************************"
-STARTDATE=`pdate "last Monday minus one week"`
-  ENDDATE=`pdate "last Monday"`
+STARTDATE=`pdate "last Sunday minus one week"`
+  ENDDATE=`pdate "last Sunday"`
 
 echo "${SEP}"
 echo 'These are all the files that have changed in swift-corelibs-foundation'
