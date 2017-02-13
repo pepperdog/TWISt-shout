@@ -31,9 +31,9 @@ This Week In Swift for the week of 2017-02-06 to 2017-02-12
 
 * [cmake: Add a new option called SWIFT_FORCE_OPTIMIZED_TYPECHECKER that forces Sema to be built optimized](http://github.com/apple/swift/commit/faacdd911b06cbcfd2186a9a07ee31eac663726b)
 
-* [SR-3840])(https://bugs.swift.org/browse/SR-3840) - [Sema: Use dynamic dispatch for inout access of properties in classes](http://github.com/apple/swift/commit/06de5d70c15e5d0dd7f084d3c672421d4ac46e3d)
+* [SR-3840](https://bugs.swift.org/browse/SR-3840) - [Sema: Use dynamic dispatch for inout access of properties in classes](http://github.com/apple/swift/commit/06de5d70c15e5d0dd7f084d3c672421d4ac46e3d)
 
-* [SR-3854])(https://bugs.swift.org/browse/SR-3854) - [utils/update-checkout: Fix for mishandling detached HEAD in SR-3854 (#7232)](http://github.com/apple/swift/commit/03125798f8cc22cd47a9eca52c1a33dcbd15f679)
+* [SR-3854](https://bugs.swift.org/browse/SR-3854) - [utils/update-checkout: Fix for mishandling detached HEAD in SR-3854 (#7232)](http://github.com/apple/swift/commit/03125798f8cc22cd47a9eca52c1a33dcbd15f679)
 
 * [SourceKit: Add a new request to translate from Objc names to Swift names and vice versa](http://github.com/apple/swift/commit/b32424953e29862296d90e2f657c453fa3cfc77f)
   
