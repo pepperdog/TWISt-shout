@@ -71,7 +71,7 @@ These are the classes updated in Foundation:
 
 * [SE-0151](https://github.com/apple/swift-evolution/blob/master/proposals/0151-package-manager-swift-language-compatibility-version.md) - [Package Manager Swift Language Compatibility Version](https://lists.swift.org/pipermail/swift-evolution-announce/2017-February/000318.html)
 
-* [SE-0152](https://github.com/apple/swift-evolution/blob/master/proposals/0152-package-manager-tools-version.md) (Feb 13) [Package Manager Tools Version](https://lists.swift.org/pipermail/swift-evolution-announce/2017-February/000319.html)
+* [SE-0152](https://github.com/apple/swift-evolution/blob/master/proposals/0152-package-manager-tools-version.md) [Package Manager Tools Version](https://lists.swift.org/pipermail/swift-evolution-announce/2017-February/000319.html)
   
 ###Draft Proposals
 
