@@ -1,16 +1,9 @@
 # TWISt-shout Newsletter 2017-02-27
 This Week In Swift for the week of 2017-02-20 to 2017-02-26
 
-* check out new stuff from https://gist.github.com/erica/4ee7bd4979a54c5466e6
-* check out new proposals showing up at https://github.com/apple/swift-evolution/tree/master/proposals
-
 ##Hot News
 
 * [Lark: Swift SOAP Client](https://lists.swift.org/pipermail/swift-users/Week-of-Mon-20170220/004816.html)
-
-##Swift Style
-
-## Pull Requests
 
 ##Code Updates
 
@@ -36,9 +29,9 @@ We have a tie!
 
 * [Attempt to fix Linux build - __has_attribute(swiftcall) doesn't work on Linux](http://github.com/apple/swift/commit/a6515200f44c1424ba021cb3938f7e96359ebd00)
 
-* [SR-3798](https://bugs.swift.org/browse/SR-3798) - [ClangImporter] Resolve forward declarations before importing names](http://github.com/apple/swift/commit/e6a85f6602934d35d217f2ea23059660d543b5ff)
+* [SR-3798](https://bugs.swift.org/browse/SR-3798) - [ClangImporter: Resolve forward declarations before importing names](http://github.com/apple/swift/commit/e6a85f6602934d35d217f2ea23059660d543b5ff)
 
-* [Constraint solver] Handle disjunctions as separate connected components](http://github.com/apple/swift/commit/40b6764e80a71e46531c770851beff0962a51db2)
+* [Constraint solver: Handle disjunctions as separate connected components](http://github.com/apple/swift/commit/40b6764e80a71e46531c770851beff0962a51db2)
 
 * [Port swiftSyntax to Windows](http://github.com/apple/swift/commit/b564a917be72b0b4b731da70d5639a25fa99b80d)
 
