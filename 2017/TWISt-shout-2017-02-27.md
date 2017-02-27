@@ -51,7 +51,7 @@ Here are all the Foundation classes that have changed:
 ####libDispatch
 There were 111 non-merge commits this week. Many pull requests dating back to July have been merged in. Updated code was merged in from darwin/libdispatch-806.
 
-* [SR-2309](https://bugs.swift.org/browse/SR-2309) = [embed BlocksRuntime in libdispatch to eliminate external dependency](http://github.com/apple/swift-corelibs-libdispatch/commit/28974c2304b1b51c21ab3933d234d55684a86576)
+* [SR-2309](https://bugs.swift.org/browse/SR-2309) - [embed BlocksRuntime in libdispatch to eliminate external dependency](http://github.com/apple/swift-corelibs-libdispatch/commit/28974c2304b1b51c21ab3933d234d55684a86576)
 
 * [bugfix in Linux wrapper: DispatchGroup.leave should call leave, not enter!](http://github.com/apple/swift-corelibs-libdispatch/commit/2b0fe21554bb7c3a7ddc5f8ce19c616d7958d4d8)
 
@@ -75,7 +75,7 @@ There were 111 non-merge commits this week. Many pull requests dating back to Ju
 
 ###Proposals Accepted
 
-* [SE-0154](https://github.com/apple/swift-evolution/blob/master/proposals/0154-dictionary-key-and-value-collections.md) (Feb 22) [Provide Custom Collections for Dictionary Keys and Values](https://lists.swift.org/pipermail/swift-evolution-announce/2017-February/000324.html)
+* [SE-0154](https://github.com/apple/swift-evolution/blob/master/proposals/0154-dictionary-key-and-value-collections.md) [Provide Custom Collections for Dictionary Keys and Values](https://lists.swift.org/pipermail/swift-evolution-announce/2017-February/000324.html)
 
 ###Proposals Deferred
 
