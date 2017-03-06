@@ -28,7 +28,7 @@ This Week In Swift for the week of 2017-02-27 to 2017-03-05
 
 * [Sema: Let `.foo` patterns fall back to being ExprPatterns if they don't match an enum case](http://github.com/apple/swift/commit/fc16cb5dda078e037b962049b6056b296b62a0cc)
 
-* [SR-4067](https://bugs.swift.org/browse/SR-4067) = [Implement function-parameter-list and friends in lib/Syntax](http://github.com/apple/swift/commit/cac51bd69b7335290d93dd87f671f34eafa35565)
+* [SR-4067](https://bugs.swift.org/browse/SR-4067) - [Implement function-parameter-list and friends in lib/Syntax](http://github.com/apple/swift/commit/cac51bd69b7335290d93dd87f671f34eafa35565)
 
 * [SR-3917](https://bugs.swift.org/browse/SR-3917) - [Allow missing witnesses for optional and unavailable requirements](http://github.com/apple/swift/commit/3246b728bdf70fb71e404b059d8fbde66bc14618)
 
