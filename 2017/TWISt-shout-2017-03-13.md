@@ -25,19 +25,17 @@ This Week In Swift for the week of 2017-03-06 to 2017-03-12
 
 * [Pull Request #7924](https://github.com/apple/swift/pull/7924) - [mangling: efficient mangling of repeated substitutions](http://github.com/apple/swift/commit/a04a29af4fa472840c18403133d00eae1c805e02)
 
-* [Pull Request #7890](https://github.com/apple/swift/pull/7890) - [Remove now unecessary MSVC trailing objects workaround](http://github.com/apple/swift/commit/fdf2282031ecd4442124ac474f63f94c0feff01a)
-
 * [CodeCompletion: Delete expr type state after getting expr completions](http://github.com/apple/swift/commit/7dba418fe7ef3662d0d98ed543e2b02cf95ebed8)
 
 * [Foundation: Remove @_silgen thunks and replace them with shims instead](http://github.com/apple/swift/commit/dc783c064c4a027c14c7805a068ec817e074592b)
 
 * [Pull Request #7823](https://github.com/apple/swift/pull/7823) - [stdlib: Adding a deprecated version of flatMap to warn misuses](http://github.com/apple/swift/commit/98e6cafdc8ebb75e4454f7e53cce2107957b9395)
 
-* [Pull Request #7907]() - [ClangImporter: Don't crash when a bad override affects NSErrors](http://github.com/apple/swift/commit/c4b66e591c4ac55da9783ada05ec5f4cbc37adf6)
+* [Pull Request #7907](https://github.com/apple/swift/pull/7907) - [ClangImporter: Don't crash when a bad override affects NSErrors](http://github.com/apple/swift/commit/c4b66e591c4ac55da9783ada05ec5f4cbc37adf6)
 
 * [AST: Introduce GenericSignature::getConformanceAccessPath()](http://github.com/apple/swift/commit/202bc7eeea239171a27594c13aba3c8659113974)
 
-* [SR-3352](https://bugs.swift.org/browse/SR-3352) - [Driver: SR-3352: Warn on and ignore -embed-bitcode when not generating object files](http://github.com/apple/swift/commit/69ae6cd5887ce96c21abcac23cd7a0f1bf28ac4d)
+* [SR-3352](https://bugs.swift.org/browse/SR-3352) - [Driver: Warn on and ignore -embed-bitcode when not generating object files](http://github.com/apple/swift/commit/69ae6cd5887ce96c21abcac23cd7a0f1bf28ac4d)
 
 * [SR-4171](https://bugs.swift.org/browse/SR-4171) - [Allow "redeclaring" an initializer with non-overlapping availability](http://github.com/apple/swift/commit/d5a18da8de7dbddb19b2fd742a110ec700743384)
   
