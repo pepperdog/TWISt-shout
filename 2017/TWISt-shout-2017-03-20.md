@@ -72,7 +72,7 @@ Here are all the changed classes in Foundation:
 
 ###Proposals Accepted
 
-* [SE-0158](https://github.com/apple/swift-evolution/blob/master/proposals/0158-package-manager-manifest-api-redesign.md) (Mar 13) - [Package Manager Manifest API Redesign](https://lists.swift.org/pipermail/swift-evolution-announce/2017-March/000330.html)
+* [SE-0158](https://github.com/apple/swift-evolution/blob/master/proposals/0158-package-manager-manifest-api-redesign.md) - [Package Manager Manifest API Redesign](https://lists.swift.org/pipermail/swift-evolution-announce/2017-March/000330.html)
   
 ###Draft Proposals
 
