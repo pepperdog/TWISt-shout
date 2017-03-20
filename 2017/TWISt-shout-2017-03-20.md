@@ -1,5 +1,5 @@
-# TWISt-shout Newsletter 2017-
-This Week In Swift for the week of 2017-03-12 to 2017-03-18
+# TWISt-shout Newsletter 2017-03-20
+This Week In Swift for the week of 2017-03-13 to 2017-03-19
 
 ##Swift Style
 
