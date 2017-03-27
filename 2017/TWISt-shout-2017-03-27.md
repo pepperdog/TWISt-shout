@@ -7,7 +7,7 @@ This Week In Swift for the week of 2017-03-20 to 2017-03-26
 
 * [NSRange, Swift.String, and NSString](https://lists.swift.org/pipermail/swift-dev/Week-of-Mon-20170320/004268.html)
 
-##Code Updates
+## Code Updates
 
 * swift:182 - Doug Gregor (29), Slava Pestov (26), Hugh Bellamy (23)
 * swift-compiler-rt:3 - Kuba Mracek (3)
@@ -24,7 +24,7 @@ This Week In Swift for the week of 2017-03-20 to 2017-03-26
 
 * [Merge pull request #8220 from slavapestov/sorry-dave-i-cant-do-that](http://github.com/apple/swift/commit/a907fd7128fcbe83251d989dc43ca43990cb0689)
 
-###swift
+### swift
 
 * [Implement partial specialization which supports generic substitutions](http://github.com/apple/swift/commit/fae0628a97403c4f92b12b07f94b810a6cdc6ff9)
 
@@ -38,7 +38,7 @@ This Week In Swift for the week of 2017-03-20 to 2017-03-26
 
 * [ClangImporter: Make sure fake locations are always in /some/ buffer](http://github.com/apple/swift/commit/0d347ac12756e31ff77f777776b1ac0228530ecd)
   
-###swift-corelibs
+### swift-corelibs
 
 These are the updates to Foundation:
 
@@ -46,27 +46,27 @@ These are the updates to Foundation:
 * [NSOperation](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSOperation.swift) - Operation: add willChangeValue() and didChangeValue()
 * [NSRegularExpression](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSRegularExpression.swift) - NSRegularExpression: Add default value to init() `options` parameter
 
-##Server Dev
+## Server Dev
 
 * [Draft Process for Server Security API Proposals](https://lists.swift.org/pipermail/swift-server-dev/Week-of-Mon-20170320/000297.html)
 
 * [Draft proposal for TLS Service APIs (please	review)](https://lists.swift.org/pipermail/swift-server-dev/Week-of-Mon-20170320/000298.html)
 
-##Evolution
+## Evolution
 
-###Proposals Up For Review
+### Proposals Up For Review
 
 * [SE-0159](https://github.com/apple/swift-evolution/blob/master/proposals/0159-fix-private-access-levels.md) (Mar 27) - [Fix Private Access Levels](https://lists.swift.org/pipermail/swift-evolution-announce/2017-March/000332.html)
 
 * [SE-0160](https://github.com/apple/swift-evolution/blob/master/proposals/0160-objc-inference.md) (Mar 28) - [Limiting @objc inference](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170320/034267.html)
 
-###Proposals Accepted
+### Proposals Accepted
 
 * [SE-0156](https://github.com/apple/swift-evolution/blob/master/proposals/0156-subclass-existentials.md) - [Class and Subtype	existentials](https://lists.swift.org/pipermail/swift-evolution-announce/2017-March/000331.html)
 
 * [SE-0157](https://github.com/apple/swift-evolution/blob/master/proposals/0157-recursive-protocol-constraints.md) - [Support recursive	constraints on associated types](https://lists.swift.org/pipermail/swift-evolution-announce/2017-March/000333.html)
   
-###Draft Proposals
+### Draft Proposals
 
 * [Explicit Toll-Free Conversions](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170320/034330.html)
 
