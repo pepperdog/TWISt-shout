@@ -1,7 +1,7 @@
 # TWISt-shout Newsletter 2017-03-27
 This Week In Swift for the week of 2017-03-20 to 2017-03-26
 
-##Swift Style##
+## Swift Style
 
 * [Improving compilation times?](https://lists.swift.org/pipermail/swift-users/Week-of-Mon-20170320/005003.html)
 
