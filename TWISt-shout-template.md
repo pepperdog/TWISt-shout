@@ -4,41 +4,41 @@ This Week In Swift for the week of 2017- to 2017-
 * check out new stuff from https://gist.github.com/erica/4ee7bd4979a54c5466e6
 * check out new proposals showing up at https://github.com/apple/swift-evolution/tree/master/proposals
 
-##Hot News
+## Hot News
 
-##Swift Style
+## Swift Style
 
 ## Pull Requests
 
-##Code Updates
+## Code Updates
 
 ### Commit Message of the Week
 
-###swift
+### swift
   
-###swift-corelibs
+### swift-corelibs
 
-###swift-build
+### swift-build
 
-###swift-lldb
+### swift-lldb
 
-##Dev
+## Dev
 
-##Server Dev
+## Server Dev
 
-##Evolution
+## Evolution
 
-###New Proposals
+### New Proposals
 
-###Proposals Up For Review
+### Proposals Up For Review
 
-###Proposals Accepted
+### Proposals Accepted
 
-###Proposals Rejected
+### Proposals Rejected
 
-###Proposals Deferred
+### Proposals Deferred
   
-###Draft Proposals
+### Draft Proposals
 
-###Cocktail Chatter
+### Cocktail Chatter
 
