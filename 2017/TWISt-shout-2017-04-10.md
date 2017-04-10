@@ -66,7 +66,7 @@ These are the classes updated in Foundation:
 
 * [SE-0166](https://github.com/apple/swift-evolution/blob/master/proposals/0166-swift-archival-serialization.md) (Apr 12) - [Swift Archival & Serialization](https://lists.swift.org/pipermail/swift-evolution-announce/2017-April/000346.html)
 
-* [SE-0167](https://github.com/apple/swift-evolution/blob/master/proposals/0167-swift-encoders.md) - (Apr 12) [Swift Encoders](https://lists.swift.org/pipermail/swift-evolution-announce/2017-April/000345.html)
+* [SE-0167](https://github.com/apple/swift-evolution/blob/master/proposals/0167-swift-encoders.md) (Apr 12) - [Swift Encoders](https://lists.swift.org/pipermail/swift-evolution-announce/2017-April/000345.html)
 
 * [SE-0168](https://github.com/apple/swift-evolution/blob/master/proposals/0168-multi-line-string-literals.md) (Apr 12) - [Multi-Line String Literals](https://lists.swift.org/pipermail/swift-evolution-announce/2017-April/000347.html)
 
