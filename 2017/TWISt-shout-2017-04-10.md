@@ -19,7 +19,7 @@ This Week In Swift for the week of 2017-04-03 to 2017-04-09
 
 * [Sema: Fix materializeForSet for members of extensions of imported classes](http://github.com/apple/swift/commit/c1c54d1462a1d617e7778758763fa23f50de8abb)
 
-* [SE-0160](https://bugs.swift.org/browse/SE-0160) - [Map Clang's swift_objc_members attribute to @objcMembers](http://github.com/apple/swift/commit/57c607e33990db400e6758cf213c0bd0d3a4b303)
+* [SE-0160](https://github.com/apple/swift-evolution/blob/master/proposals/0160-objc-inference.md) - [Map Clang's swift_objc_members attribute to @objcMembers](http://github.com/apple/swift/commit/57c607e33990db400e6758cf213c0bd0d3a4b303)
 
 * [ClangImporter: Add support for 'SwiftImportAsNonGeneric' in API notes](://github.com/apple/swift/commit/08b6c5f0c92d44e6c2c2a09c3b7179ee07c34b10)
 
