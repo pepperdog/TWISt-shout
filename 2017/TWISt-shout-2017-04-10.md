@@ -15,27 +15,27 @@ This Week In Swift for the week of 2017-04-03 to 2017-04-09
 
 ### swift
 
-* [SR-4347](https://bugs.swift.org/browse/SR-4347) - [default to Any? instead of Any if there is a nil literal](http://github.com/apple/swift/commit/09a56c16fda6af882130c1d7367fc8595e760ecc)
+* [SR-4347](https://bugs.swift.org/browse/SR-4347) - [default to Any? instead of Any if there is a nil literal](https://github.com/apple/swift/commit/09a56c16fda6af882130c1d7367fc8595e760ecc)
 
-* [Sema: Fix materializeForSet for members of extensions of imported classes](http://github.com/apple/swift/commit/c1c54d1462a1d617e7778758763fa23f50de8abb)
+* [Sema: Fix materializeForSet for members of extensions of imported classes](https://github.com/apple/swift/commit/c1c54d1462a1d617e7778758763fa23f50de8abb)
 
-* [SE-0160](https://github.com/apple/swift-evolution/blob/master/proposals/0160-objc-inference.md) - [Map Clang's swift_objc_members attribute to @objcMembers](http://github.com/apple/swift/commit/57c607e33990db400e6758cf213c0bd0d3a4b303)
+* [SE-0160](https://github.com/apple/swift-evolution/blob/master/proposals/0160-objc-inference.md) - [Map Clang's swift_objc_members attribute to @objcMembers](https://github.com/apple/swift/commit/57c607e33990db400e6758cf213c0bd0d3a4b303)
 
-* [ClangImporter: Add support for 'SwiftImportAsNonGeneric' in API notes](://github.com/apple/swift/commit/08b6c5f0c92d44e6c2c2a09c3b7179ee07c34b10)
+* [ClangImporter: Add support for 'SwiftImportAsNonGeneric' in API notes](https://github.com/apple/swift/commit/08b6c5f0c92d44e6c2c2a09c3b7179ee07c34b10)
 
-* [ClangImporter: Avoid full conformance checks for swift_wrapper types](http://github.com/apple/swift/commit/d1f0a245df6c29112f3f864c0b2acf3ce9b2bc70)
+* [ClangImporter: Avoid full conformance checks for swift_wrapper types](https://github.com/apple/swift/commit/d1f0a245df6c29112f3f864c0b2acf3ce9b2bc70)
 
-* [Constraint solver: Constraint propagation, disabled by default](http://github.com/apple/swift/commit/0cd57bd48189df8bc3b719ba0babb45c4c29b08d)
+* [Constraint solver: Constraint propagation, disabled by default](https://github.com/apple/swift/commit/0cd57bd48189df8bc3b719ba0babb45c4c29b08d)
 
-* [Enable associated type where clauses in all language modes](http://github.com/apple/swift/commit/ab7cd7fbe453ff5b5d994a58d3f51cb5cefc96c1)
+* [Enable associated type where clauses in all language modes](https://github.com/apple/swift/commit/ab7cd7fbe453ff5b5d994a58d3f51cb5cefc96c1)
 
-* [type-checker: More correct way to determine if a given generic parameter of a function cannot be inferred because it is not used](http://github.com/apple/swift/commit/e52962f13a7644eb2dd762fcdf4db2a728a04c8b)
+* [type-checker: More correct way to determine if a given generic parameter of a function cannot be inferred because it is not used](https://github.com/apple/swift/commit/e52962f13a7644eb2dd762fcdf4db2a728a04c8b)
 
-* [ClangImporter: Fix versioned stubs for functions-as-members](http://github.com/apple/swift/commit/bd1920ba67fbc0bddf4f943d4fd8e25143222bdd)
+* [ClangImporter: Fix versioned stubs for functions-as-members](https://github.com/apple/swift/commit/bd1920ba67fbc0bddf4f943d4fd8e25143222bdd)
 
-* [Improve the performance of IRGenDebugInfo](http://github.com/apple/swift/commit/5ea2d13f5e0284b71eb84c2e7eba402caa4ad26a)
+* [Improve the performance of IRGenDebugInfo](https://github.com/apple/swift/commit/5ea2d13f5e0284b71eb84c2e7eba402caa4ad26a)
 
-* [arc: Add a statistic to guaranteed-arc-opts that prints out the number of instructions removed](http://github.com/apple/swift/commit/a0f903eaf1b1beaaa145884657fce65f50927fdc)
+* [arc: Add a statistic to guaranteed-arc-opts that prints out the number of instructions removed](https://github.com/apple/swift/commit/a0f903eaf1b1beaaa145884657fce65f50927fdc)
 
 ### swift-corelibs
 
