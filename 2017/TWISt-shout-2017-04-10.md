@@ -60,7 +60,7 @@ These are the classes updated in Foundation:
 
 * [SE-0163](https://github.com/apple/swift-evolution/blob/master/proposals/0163-string-revision-1.md) (Apr 11) - [String Revision: Collection Conformance, C Interop, Transcoding](https://lists.swift.org/pipermail/swift-evolution-announce/2017-April/000340.html)
 
-* [SE-0164](https://github.com/apple/swift-evolution/blob/master/proposals/0164-remove-final-support-in-protocol-extensions.md) (Apr 8) - [Remove final support in protocol extensions](https://github.com/apple/swift-evolution/blob/master/proposals/0164-remove-final-support-in-protocol-extensions.md)
+* [SE-0164](https://github.com/apple/swift-evolution/blob/master/proposals/0164-remove-final-support-in-protocol-extensions.md) (Apr 8) - [Remove final support in protocol extensions](https://lists.swift.org/pipermail/swift-evolution-announce/2017-April/000341.html)
 
 * [SE-0165](https://github.com/apple/swift-evolution/blob/master/proposals/0165-dict.md) (Apr 11) - [Dictionary & Set Enhancements](https://lists.swift.org/pipermail/swift-evolution-announce/2017-April/000344.html)
 
