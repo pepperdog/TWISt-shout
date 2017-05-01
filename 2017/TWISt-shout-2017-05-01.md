@@ -18,49 +18,49 @@ This Week In Swift for the week of 2017-04-24 to 2017-04-30
 
 ### Commit Message of the Week
 
-* [stdlib: Parse my tweets faster! 2x forwards, 3x reverse](http://github.com/apple/swift/commit/2d8164e552aff4ff884684bb5ec4695b8575d80c)
+* [stdlib: Parse my tweets faster! 2x forwards, 3x reverse](https://github.com/apple/swift/commit/2d8164e552aff4ff884684bb5ec4695b8575d80c)
 
 ### swift
 
-* [SR-4672](https://bugs.swift.org/browse/SR-4672) - [Add test for SR-4672 which got fixed somehow](http://github.com/apple/swift/commit/e8d58b4d4dc7575e5788c20627108f68749a0426)
+* [SR-4672](https://bugs.swift.org/browse/SR-4672) - [Add test for SR-4672 which got fixed somehow](https://github.com/apple/swift/commit/e8d58b4d4dc7575e5788c20627108f68749a0426)
 
-* [SR-4390](https://bugs.swift.org/browse/SR-4390) - [Sema: Diagnose invalid references to type alias members of unbound generic types](http://github.com/apple/swift/commit/aaca0badf9a3d5430d68ef8fe0219888cf47beb4)
+* [SR-4390](https://bugs.swift.org/browse/SR-4390) - [Sema: Diagnose invalid references to type alias members of unbound generic types](https://github.com/apple/swift/commit/aaca0badf9a3d5430d68ef8fe0219888cf47beb4)
 
-* [SR-4379](https://bugs.swift.org/browse/SR-4379) - [Sema: Improve the fixit for 'Self' in invalid places](http://github.com/apple/swift/commit/07c189558c70de45d4fec59abf9b4f57ed36d1eb)
+* [SR-4379](https://bugs.swift.org/browse/SR-4379) - [Sema: Improve the fixit for 'Self' in invalid places](https://github.com/apple/swift/commit/07c189558c70de45d4fec59abf9b4f57ed36d1eb)
 
-* [SR-4673](https://bugs.swift.org/browse/SR-4673) - [SILOptimizer: Fix spurious 'unreachable code' warning when a failable initializer calls a never-returning function](http://github.com/apple/swift/commit/683a7f49e42ab52900deeae205171178c9f4a4c6)
+* [SR-4673](https://bugs.swift.org/browse/SR-4673) - [SILOptimizer: Fix spurious 'unreachable code' warning when a failable initializer calls a never-returning function](https://github.com/apple/swift/commit/683a7f49e42ab52900deeae205171178c9f4a4c6)
 
-* [stdlib: String : RangeReplaceableCollection & BidirectionalCollection](http://github.com/apple/swift/commit/1c1b2b966df0c4d720fed9996357f48bad6440d2)
+* [stdlib: String : RangeReplaceableCollection & BidirectionalCollection](https://github.com/apple/swift/commit/1c1b2b966df0c4d720fed9996357f48bad6440d2)
   
-* [ClangImporter: Error structs from enums are not imported decls](http://github.com/apple/swift/commit/e575d2d5ba7d1a2fc70f364ce82c276ada95ffa7)
+* [ClangImporter: Error structs from enums are not imported decls](https://github.com/apple/swift/commit/e575d2d5ba7d1a2fc70f364ce82c276ada95ffa7)
 
-* [Don't inherit convenience inits if a designated init is missing](http://github.com/apple/swift/commit/7397340ca89faf0ed5ab569ceb0d52bec1fdc604)
+* [Don't inherit convenience inits if a designated init is missing](https://github.com/apple/swift/commit/7397340ca89faf0ed5ab569ceb0d52bec1fdc604)
 
-* [SR-4598](https://bugs.swift.org/browse/SR-4598) - [Add option to run subset of benchmarks matching a prefix](http://github.com/apple/swift/commit/3a5051e3929e7bd709e630e8b8a07b4eb34bf123)
+* [SR-4598](https://bugs.swift.org/browse/SR-4598) - [Add option to run subset of benchmarks matching a prefix](https://github.com/apple/swift/commit/3a5051e3929e7bd709e630e8b8a07b4eb34bf123)
 
-* [Prototype stateful Unicode decoding](http://github.com/apple/swift/commit/c2a92a695c2891c40349fa0ea30e425a9fd877a3)
+* [Prototype stateful Unicode decoding](https://github.com/apple/swift/commit/c2a92a695c2891c40349fa0ea30e425a9fd877a3)
 
-* [Integrate *Codable protocols and associated types](http://github.com/apple/swift/commit/cecf00d1f187ed7d1730aa8330659af5aea2cc77)
+* [Integrate *Codable protocols and associated types](https://github.com/apple/swift/commit/cecf00d1f187ed7d1730aa8330659af5aea2cc77)
 
-* [An implementation for 0168-multi-line-string-literals.md](http://github.com/apple/swift/commit/981e706fd92115bd8f08db3cd137544e7613cce0)
+* [An implementation for 0168-multi-line-string-literals.md](https://github.com/apple/swift/commit/981e706fd92115bd8f08db3cd137544e7613cce0)
 
-* [stdlib: Dictionary/Set enhancements](http://github.com/apple/swift/commit/e2328885c17475decc5dd19f5274f648feffd8a0)
+* [stdlib: Dictionary/Set enhancements](https://github.com/apple/swift/commit/e2328885c17475decc5dd19f5274f648feffd8a0)
 
 * [SR-4666](https://bugs.swift.org/browse/SR-4666) - [benchmark: Lower the max memory size of ObejctiveC bridging tests by moving the
     autoreleasepool down such that we have less allocations in the pool until it is
-    empty](http://github.com/apple/swift/commit/a8e3fc9af3dc0185331419851e0d0fc32a1845e2)
+    empty](https://github.com/apple/swift/commit/a8e3fc9af3dc0185331419851e0d0fc32a1845e2)
 	
-* [SR-4601](https://bugs.swift.org/browse/SR-4601) - [Report Added and Removed Benchmarks in Performance Comparison](http://github.com/apple/swift/commit/c719818024d7a5f736c394d167a31fc1f4c69c43)
+* [SR-4601](https://bugs.swift.org/browse/SR-4601) - [Report Added and Removed Benchmarks in Performance Comparison](https://github.com/apple/swift/commit/c719818024d7a5f736c394d167a31fc1f4c69c43)
 
-* [UnicodeDecoders: basic view proof-of-concept](http://github.com/apple/swift/commit/662ea1f8a0c3f95263feb3a7f4c7f21e4932c85b)
+* [UnicodeDecoders: basic view proof-of-concept](https://github.com/apple/swift/commit/662ea1f8a0c3f95263feb3a7f4c7f21e4932c85b)
 
-* [UnicodeDecoders: dumber is faster](http://github.com/apple/swift/commit/16e42d3d047ed888e86e42c00b731cc95a5de501)
+* [UnicodeDecoders: dumber is faster](https://github.com/apple/swift/commit/16e42d3d047ed888e86e42c00b731cc95a5de501)
 
-* [UnicodeDecoders: bidirectional UnicodeScalar view](http://github.com/apple/swift/commit/5ad4ef450839b952773fd359f495a8dbd8b4e505)
+* [UnicodeDecoders: bidirectional UnicodeScalar view](https://github.com/apple/swift/commit/5ad4ef450839b952773fd359f495a8dbd8b4e505)
 
-* [Introduce the Space Engine](http://github.com/apple/swift/commit/42c59554a0e980ab83f52eda41140c4b2c465834)
+* [Introduce the Space Engine](https://github.com/apple/swift/commit/42c59554a0e980ab83f52eda41140c4b2c465834)
 
-* [Add JSON and property list encoders and decoders](http://github.com/apple/swift/commit/2ce58c1eb315ad3083c30fed2fa7cbde305092ea)
+* [Add JSON and property list encoders and decoders](https://github.com/apple/swift/commit/2ce58c1eb315ad3083c30fed2fa7cbde305092ea)
 
 ### swift-corelibs
 
