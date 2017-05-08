@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # git log understands ISO8601 format dates
-# http://stackoverflow.com/questions/14618022/how-does-git-log-since-count
+# https://stackoverflow.com/questions/14618022/how-does-git-log-since-count
 
 SEP="************************"
 #STARTDATE="2016-12-05T00:00:00Z"
@@ -47,7 +47,7 @@ for i in \
     example-package-playingcard
 do
     if [ ! -d ${i} ]; then
-	git clone http://github.com/apple/${i}.git > /dev/null 2>&1
+	git clone https://github.com/apple/${i}.git > /dev/null 2>&1
     fi
     cd $i
     git pull > /dev/null 2>&1
@@ -67,7 +67,7 @@ do
 	COMMIT_HASHES=`git log --reverse --after="${STARTDATE}" --before="${ENDDATE}" --format=format:%H`
 	for HASH in ${COMMIT_HASHES}; do
 	    echo "\n${SEP}" >> ${COMMITLOG}
-	    echo "http://github.com/apple/$i/commit/${HASH}" >> ${COMMITLOG}
+	    echo "https://github.com/apple/$i/commit/${HASH}" >> ${COMMITLOG}
 	    git log -1 ${HASH} | head -c 1024 >> ${COMMITLOG}
 	done
 	open -a TextMate ${COMMITLOG}
