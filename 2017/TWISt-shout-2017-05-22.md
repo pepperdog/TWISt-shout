@@ -38,7 +38,7 @@ This Week In Swift for the week of 2017-05-15 to 2017-05-21
 
 * [CoreGraphics: Make CGColor adopt _ExpressibleByColorLiteral](https://github.com/apple/swift/commit/2a9867bf888cb11cb599bc601776be5bb9e5974e)
 
-* [stdlib] Adding RangeReplaceable.filter returning Self](https://github.com/apple/swift/commit/fd2ac31c6e8a6c18da0b40bfe1c93407b076e463)
+* [stdlib: Adding RangeReplaceable.filter returning Self](https://github.com/apple/swift/commit/fd2ac31c6e8a6c18da0b40bfe1c93407b076e463)
 
 * [SR-4833](https://bugs.swift.org/browse/SR-4833) - [Sema: Bind context generic params using the current ConstraintSystem's generic environment instead of the decl's DC.](https://github.com/apple/swift/commit/d16eb3347786cbe9d7955d89be972d327439edda)
   
