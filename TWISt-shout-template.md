@@ -20,6 +20,8 @@ This Week In Swift for the week of 2017- to 2017-
 
 ### swift-build
 
+### swift-package-manager
+
 ### swift-lldb
 
 ## Dev
