@@ -25,8 +25,6 @@ This Week In Swift for the week of 2017-05-29 to 2017-06-04
 
 * [SR-4301](https://bugs.swift.org/browse/SR-4301) - [QoI: Fix crash when constructing existential metatype without '.init'](https://github.com/apple/swift/commit/29b8f5615dec7623fd62296ed6bcc91f5554558b)
 
-* [stdlib: Grapheme break fast-paths for Cyrillic, Arabic, Hangul](https://github.com/apple/swift/commit/0a88de53d3e378a5e8101f686f93beff1dcd0e6a)
-
 * [Add a size heuristic to the Space Engine](https://github.com/apple/swift/commit/bffa22a5c92ba179b4bf0116f81234bc76b18daf)
 
 * [SR-4917](https://bugs.swift.org/browse/SR-4917) - [SILGen: Handle existential keypath root types.](https://github.com/apple/swift/commit/4fc0b7df966aaf6c5722cd3b82d86d8f5be7ca90)
@@ -41,16 +39,7 @@ Here the Foundation classes that have been updated:
 * [NSLocale](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSLocale.swift) - [SR-3202] Some of properties of Locale.current object are not filled on Linux
 * [NSMassFormatter](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSMassFormatter.swift) - Initial implementation of MassFormatter. (#883)
 * [NSScanner](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSScanner.swift) - swift4: Integer fixes for new integer protocols
-* [NSURLProtocol](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSURLProtocol.swift) - URLProtocol implementation and refactoring URLSession
-* [EasyHandle](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSURLSession/http/EasyHandle.swift) - URLProtocol implementation and refactoring URLSession
-* [HTTPBodySource](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSURLSession/http/HTTPBodySource.swift) - URLProtocol implementation and refactoring URLSession
-* [HTTPMessage](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSURLSession/http/HTTPMessage.swift) - URLProtocol implementation and refactoring URLSession
-* [HTTPURLProtocol](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSURLSession/http/HTTPURLProtocol.swift) - URLProtocol implementation and refactoring URLSession
-* [libcurlHelpers](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSURLSession/http/libcurlHelpers.swift) - URLProtocol implementation and refactoring URLSession
-* [MultiHandle](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSURLSession/http/MultiHandle.swift) - URLProtocol implementation and refactoring URLSession
-* [TransferState](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSURLSession/http/TransferState.swift) - URLProtocol implementation and refactoring URLSession
 * [NSURLSession](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSURLSession/NSURLSession.swift) - URLProtocol implementation and refactoring URLSession
-* [NSURLSessionTask](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSURLSession/NSURLSessionTask.swift) - URLProtocol implementation and refactoring URLSession
 * [Process](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/Process.swift) - Fix more warnings for deprecation and unsafeBitCast() (#953)
 
 ## Dev
