@@ -36,7 +36,7 @@ This Week In Swift for the week of 2017-06-12 to 2017-06-18
 
 * [Support for running benchmarks by ordinal number](https://github.com/apple/swift/commit/97d6f8dc5eb8154685cc787928554c44c96272b2)
 
-* [SR-4978](https://bugs.swift.org/browse/SR-4780) - [Fix compiler crash for malformed ASTs](https://github.com/apple/swift/commit/c40efd41548311088130b35f3b762d87d65fe934)
+* [SR-4978](https://bugs.swift.org/browse/SR-4978) - [Fix compiler crash for malformed ASTs](https://github.com/apple/swift/commit/c40efd41548311088130b35f3b762d87d65fe934)
 
 * [Add -warn-long-expression-type-checking=<limit> frontend option.](https://github.com/apple/swift/commit/d26c8592222589022270ebe6cc6e84b7680063d5)
 	
@@ -83,13 +83,9 @@ This Week In Swift for the week of 2017-06-12 to 2017-06-18
 
 ### swift-corelibs
 
-* [NSStringEncodings](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSStringEncodings.swift) - [gardening] Move operators into types (#1039)
 * [NSSwiftRuntime](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSSwiftRuntime.swift) - Remove a few mangled magic items
-* [EasyHandle](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSURLSession/http/EasyHandle.swift) - [gardening] Move operators into types (#1039)
 * [HTTPURLProtocol](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSURLSession/http/HTTPURLProtocol.swift) - Made totalDownload property in URLSessionTask to be specific to HTTPURLProtocol
-* [MultiHandle](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSURLSession/http/MultiHandle.swift) - [gardening] Move operators into types (#1039)
 * [NSURLSessionTask](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSURLSession/NSURLSessionTask.swift) - Made totalDownload property in URLSessionTask to be specific to HTTPURLProtocol
-* [NSXMLNode](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSXMLNode.swift) - [gardening] Move operators into types (#1039)
 * [Process](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/Process.swift) - build: Fix TestFoundation to build and run in Xcode
 
 ## Dev
@@ -123,7 +119,7 @@ This Week In Swift for the week of 2017-06-12 to 2017-06-18
   
 ### Draft Proposals
 
-* [Flattening Void](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170612/037343.html)\
+* [Flattening Void](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170612/037343.html)
 
 * [Introducing role keywords to reduce	hard-to-find bugs](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170612/037484.html)
 
