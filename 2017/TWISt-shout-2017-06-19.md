@@ -1,9 +1,6 @@
 # TWISt-shout Newsletter 2017-06-19
 This Week In Swift for the week of 2017-06-12 to 2017-06-18
 
-* check out new stuff from https://gist.github.com/erica/4ee7bd4979a54c5466e6
-* check out new proposals showing up at https://github.com/apple/swift-evolution/tree/master/proposals
-
 ## Hot News
 
 * [A procedural noise library](https://lists.swift.org/pipermail/swift-users/Week-of-Mon-20170605/005563.html)
@@ -37,7 +34,7 @@ This Week In Swift for the week of 2017-06-12 to 2017-06-18
 
 * [SR-4780](https://bugs.swift.org/browse/SR-4780) - [Can not run performance tests that are not in precommit suite](https://github.com/apple/swift/commit/7e6c12a0c8fcd8d8ce5dcf2aa2bf13f3955467c5)
 
-* [https://github.com/apple/swift/commit/97d6f8dc5eb8154685cc787928554c44c96272b2](Support for running benchmarks by ordinal number)
+* [Support for running benchmarks by ordinal number](https://github.com/apple/swift/commit/97d6f8dc5eb8154685cc787928554c44c96272b2)
 
 * [SR-4978](https://bugs.swift.org/browse/SR-4780) - [Fix compiler crash for malformed ASTs](https://github.com/apple/swift/commit/c40efd41548311088130b35f3b762d87d65fe934)
 
