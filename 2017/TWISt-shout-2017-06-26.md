@@ -25,8 +25,6 @@ This Week In Swift for the week of 2017-06-19 to 2017-06-25
 * swift-llbuild:1 - Hugh Bellamy (1)
 * swift-evolution:5 - Antoine Cœur (1), Ben Rimmington (1), Dave Abrahams (1)
 
-### Commit Message of the Week
-
 ### swift
 
 * [Debugger hook/breakpoint for issue reporting from the Swift runtime](https://github.com/apple/swift/commit/fec8d72ea318acd638982334804db5b6c6714a2f)
