@@ -84,6 +84,6 @@ Thesea are the classes updated in Foundation:
 
 * [Update PlistEncoder with proposed nil changes](https://github.com/apple/swift/commit/0a0e6b739720eb6b7bdda9ba061b9b400ddbc4f4)
 
-* [Parse: Allow #if to guard switch case clauses](Merge pull request #9457 from rintaro/parse-ifconfig-switchcase)
+* [Parse: Allow #if to guard switch case clauses](https://github.com/apple/swift/commit/d07eb71d9cd4b7e6fa3a7efeb4a616cb3ebbc370)
 
 * [stdlib: Update non-contiguous NSStrings to Unicode 9](https://github.com/apple/swift/commit/a37a823e6e6ccdd3e931b06c8d44fbe523212863)
