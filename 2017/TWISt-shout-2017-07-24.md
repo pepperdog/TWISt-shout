@@ -47,7 +47,7 @@ This Week In Swift for the week of 2017-07-17 to 2017-07-23
 
 These are all the classes that have been updated in Foundation:
 
-* [ExtraStringAPIs](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/ExtraStringAPIs.swift) - Drop RandomAccessCollection conformance for String.UTF16View
+* [String](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/ExtraStringAPIs.swift) - Drop RandomAccessCollection conformance for String.UTF16View
 * [NSSortDescriptor](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSSortDescriptor.swift) - Stub out new KeyPath APIs in NSSortDescriptor
 * [NSXMLDocument](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSXMLDocument.swift) - Address concerns from PR# 1052
 * [NSXMLNode](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSXMLNode.swift) - Remove incorrect CF_RETURNS_RETAINED; Address concerns from PR# 1052; Better namespace support for XML
@@ -79,4 +79,4 @@ These are all the classes that have been updated in Foundation:
   
 ### Draft Proposals
 
-* [New Version of Fixed Sizse Array Proposal](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170717/038182.html)
+* [New Version of Fixed Sized Array Proposal](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170717/038182.html)
