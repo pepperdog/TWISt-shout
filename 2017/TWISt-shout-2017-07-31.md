@@ -39,13 +39,13 @@ This Week In Swift for the week of 2017-07-24 to 2017-07-30
 
 * [GSB: SE-0157: Reprocess delayed requirements when we need a complete PA.](https://github.com/apple/swift/commit/6177f83f016f02bdf6c9314c05a871d33ac79c76)
 
-* [Merge pull request #11080 from johnno1962/master](https://github.com/apple/swift/commit/6d0679292ffb846b29e4c8bb07be8abd735b2b46)
+* [An implementation for SE-0182](https://github.com/apple/swift/commit/6d0679292ffb846b29e4c8bb07be8abd735b2b46)
 
 * [SE-0157: Enable recursive protocol constraints by default.](https://github.com/apple/swift/commit/469e9e08a5fa7598de366e29449babc655430d2d)
 
 * [SR-3063](https://bugs.swift.org/browse/SR-3063) - [SR-3063: Suppress SIL transforms when merging modules.](https://github.com/apple/swift/commit/dda3a3827c36459ebd8edeb2efab1ebb5cd02acc)
 
-* [SR-5473](https://bugs.swift.org/browse/SR-5473) - [Merge pull request #11234 from DougGregor/SR-5473](https://github.com/apple/swift/commit/a12ec12d6ff29bcb2ff91f2b9df9eb325deae1b9)
+* [SR-5473](https://bugs.swift.org/browse/SR-5473) - [Detect self-derived conformances within same-type requirements](https://github.com/apple/swift/commit/a12ec12d6ff29bcb2ff91f2b9df9eb325deae1b9)
 
 * [Update master to build with Xcode 9 beta 4, macOS 10.13, iOS 11, tvOS 11, and watchOS 4 SDKs.](https://github.com/apple/swift/commit/64a77ca7166eca9a951995162196edd427ed73d4)
 
