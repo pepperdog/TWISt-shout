@@ -1,9 +1,6 @@
 # TWISt-shout Newsletter 2017-08-07
 This Week In Swift for the week of 2017-07-31 to 2017-08-06
 
-* check out new stuff from https://gist.github.com/erica/4ee7bd4979a54c5466e6
-* check out new proposals showing up at https://github.com/apple/swift-evolution/tree/master/proposals
-
 ## Hot News
 
 * [Swift Protobuf is nearing a 1.0 release](https://github.com/apple/swift-protobuf)
@@ -18,8 +15,6 @@ This Week In Swift for the week of 2017-07-31 to 2017-08-06
 * swift-clang:13 - Hans Wennborg (5), Akira Hatanaka (4), Alex Lorenz (3)
 * swift-llvm:41 - Adrian Prantl (23), Hans Wennborg (13), Ahmed Bougacha (2)
 * swift-evolution:5 - Alexander von Below (1), Kelvin (1), Kyle Murray (1)
-
-### Commit Message of the Week
 
 ### swift
 
@@ -45,7 +40,7 @@ This Week In Swift for the week of 2017-07-31 to 2017-08-06
 
 * [SR-2487](https://bugs.swift.org/browse/SR-2487) - [SourceKit: Add documentation range in structure (SR-2487) (#11264)](https://github.com/apple/swift/commit/d16cce3a948082a242d289263dc496e4d46ee6c8)
 
-* [SR-5206SR-5206](https://bugs.swift.org/browse/SR-5206SR-5206) - [Remove previous hack for SR-5206](https://github.com/apple/swift/commit/fbdcbee7a22ecbb0e4de3dec71c22f7c40bd723a)
+* [SR-5206](https://bugs.swift.org/browse/SR-5206) - [Remove previous hack for SR-5206](https://github.com/apple/swift/commit/fbdcbee7a22ecbb0e4de3dec71c22f7c40bd723a)
 
 * [SR-5081](https://bugs.swift.org/browse/SR-5081) - [QoI: Improve diagnostics for assignment expression](https://github.com/apple/swift/commit/e8744af2830e2bda3434d0e464316168db36f2fe)
 
@@ -63,7 +58,7 @@ Other Updates:
 
 * [SR-4842](https://bugs.swift.org/browse/SR-4842) - [Allow JSONSerialization to serialize optionals without requiring NSNull()](https://github.com/apple/swift-corelibs-foundation/commit/f967641619e62717d248bbf2fcd98102289f694a)
 
-* [SR-5591](https://bugs.swift.org/browse/SR-5591) - [SR-5591: Update broken DateFormatter tests](https://github.com/apple/swift-corelibs-foundation/commit/1376c88506ce872d7c72dfc232e4cd6845baf303)
+* [SR-5591](https://bugs.swift.org/browse/SR-5591) - [Update broken DateFormatter tests](https://github.com/apple/swift-corelibs-foundation/commit/1376c88506ce872d7c72dfc232e4cd6845baf303)
 
 ## Evolution
 
