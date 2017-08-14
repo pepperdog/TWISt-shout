@@ -42,12 +42,13 @@ These are the updated classes in Foundation:
 
 * [NSString](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSString.swift) - Rename NSRegularExpression options (#1165)
 * [NSURL](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSURL.swift) - NSURL: Don't leak the result of dataRepresentation (#1170)
-* [ExtraStringAPIs](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/ExtraStringAPIs.swift) - Remove Strideable conformance from String.UTF16View.Index
 * [NSRegularExpression](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSRegularExpression.swift) - Rename NSRegularExpression options (#1165); SR-5557: Fix NSRegularExpression errors with invalid pattern; NSRegularExpression: Make options: default to empty to match Darwin
 
 Other Changes:
 
-* [SR-5596](https://bugs.swift.org/browse/SR-5596) - [SR-5596: TimeZone.current returns wrong value](https://github.com/apple/swift-corelibs-foundation/commit/8d34fbaa1bfd4881c2e8430dc889cac57dc44db8)
+* [Remove Strideable conformance from String.UTF16View.Index](https://github.com/apple/swift-corelibs-foundation/commit/707b031acc53e4862b2edb6878bf3e43a60bd055)
+
+* [SR-5596](https://bugs.swift.org/browse/SR-5596) - [TimeZone.current returns wrong value](https://github.com/apple/swift-corelibs-foundation/commit/8d34fbaa1bfd4881c2e8430dc889cac57dc44db8)
 
 ## Dev
 
