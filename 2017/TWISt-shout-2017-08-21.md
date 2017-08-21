@@ -1,9 +1,6 @@
 # TWISt-shout Newsletter 2017-08-21
 This Week In Swift for the week of 2017-08-14 to 2017-08-20
 
-* check out new stuff from https://gist.github.com/erica/4ee7bd4979a54c5466e6
-* check out new proposals showing up at https://github.com/apple/swift-evolution/tree/master/proposals
-
 ## Hot News
 
 * [Swift 5: start your engines](https://lists.swift.org/pipermail/swift-evolution-announce/2017-August/000396.html)
@@ -23,7 +20,7 @@ This Week In Swift for the week of 2017-08-14 to 2017-08-20
 
 * [SR-5670](https://bugs.swift.org/browse/SR-5670) - [Reject member lookups that require bridging metatypes](https://github.com/apple/swift/commit/3c1a6ab6d3c9386716bdb269f14b1bd4f5c157d7)
 
-* [SR-5671](https://bugs.swift.org/browse/SR-5671) - [SR-5671: Emit diagnostic in place of collection downcast in pattern (#11441)](https://github.com/apple/swift/commit/53426101e2d2b1c0c5e6a15abf67827b8856a395)
+* [SR-5671](https://bugs.swift.org/browse/SR-5671) - [Emit diagnostic in place of collection downcast in pattern (#11441)](https://github.com/apple/swift/commit/53426101e2d2b1c0c5e6a15abf67827b8856a395)
 
 * [Turn on circularity checks for ProtocolCompositions](https://github.com/apple/swift/commit/f479f274209dfd034f28ab46c67d9237de41ec37)
 
@@ -56,7 +53,7 @@ Other Updates:
 
 * [Shell completion of dependencies and executables (#1288)](https://github.com/apple/swift-package-manager/commit/e76933d9f293bef138a041b583a35e015946eb59)
 
-* [SR-5624](https://bugs.swift.org/browse/SR-5624) - [SR-5624: Fix to bring "dependencies" key to the last order of output json.](https://github.com/apple/swift-package-manager/commit/f2ca05b0f2e7ae817e82dc88f9410a17e17a184a)
+* [SR-5624](https://bugs.swift.org/browse/SR-5624) - [Fix to bring "dependencies" key to the last order of output json.](https://github.com/apple/swift-package-manager/commit/f2ca05b0f2e7ae817e82dc88f9410a17e17a184a)
 
 ## Evolution
 
