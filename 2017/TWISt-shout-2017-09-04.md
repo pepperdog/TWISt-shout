@@ -13,7 +13,7 @@ This Week In Swift for the week of 2017-08-28 to 2017-09-03
 * swift-llvm:110 - Daniel Sanders (23), Igor Breger (9), Aditya Nandakumar (7)
 * swift-evolution:5 - Ben Rimmington (1), Doug Gregor (1), Hernán Canzonetta (1)
 
-### Commit Message of the Week
+### Branch Name of the Week
 
 * [Merge pull request #11668 from slavapestov/my-lazyness-is-transparent](https://github.com/apple/swift/commit/7e1d89899b914468b93c3bacd1c37886acc62906)
 
@@ -51,6 +51,7 @@ Other updates:
 * [SR-5640](https://bugs.swift.org/browse/SR-5640) - [JSONEncoder misrepresents UInt.max](https://github.com/apple/swift-corelibs-foundation/commit/aea30ade1a24d025940f079edde408ccb2905616)
 
 ## Evolution
+It's still all about concurrency.
 
 * [Concurrency: more async/await + actors](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170828/039372.html)
 
