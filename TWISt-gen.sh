@@ -66,7 +66,7 @@ do
 	COMMITLOG="../../commit-logs/${i}.txt"
 	COMMIT_HASHES=`git log --reverse --after="${STARTDATE}" --before="${ENDDATE}" --format=format:%H`
 	for HASH in ${COMMIT_HASHES}; do
-	    SUBJECT=`git log -1 ${HASH} | grep -v '^Merge:' | head -5 | tail -1 | sed 's/^[ \t]*//' | sed 's/[ \t]$//' | sed 's/^\[\(.*\)\]/\1:/'`
+	    SUBJECT=`git log -1 ${HASH} | grep -v '^Merge:' | head -5 | tail -1 | sed 's/^[ \t]*//' | sed 's/[ \t]*\\$//' | sed 's/^\[\(.*\)\]/\1:/'`
 	    SWIFT_BUG=`git log -1 ${HASH} | perl -n -e '/(SR-[0-9]+)/ && print $1'`
 
 	    echo "\n${SEP}" >> ${COMMITLOG}
