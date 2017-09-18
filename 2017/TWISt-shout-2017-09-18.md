@@ -17,7 +17,7 @@ This Week In Swift for the week of 2017-09-11 to 2017-09-17
 
 ### swift
 
-* [SR-5814](https://bugs.swift.org/browse/SR-5814) - [Merge pull request #11836 from glenna/fix/remove_crufty_objc_reflection](https://github.com/apple/swift/commit/fcc95062e11f26b470110d1e23fb44e6074f2063)
+* [SR-5814](https://bugs.swift.org/browse/SR-5814) - [removes dead code around REFLECT_OBJC_IVARS](https://github.com/apple/swift/commit/fcc95062e11f26b470110d1e23fb44e6074f2063)
 
 * [Add support for collecting various SIL optimizer counters](https://github.com/apple/swift/commit/f0a39e9e1401f3de297b062e38093c55310c4545)
 
@@ -31,13 +31,13 @@ This Week In Swift for the week of 2017-09-11 to 2017-09-17
 
 * [SR-3376](https://bugs.swift.org/browse/SR-3376) - [Use array copy runtime implementation instead of the array value witnesses](https://github.com/apple/swift/commit/8a85a9efd599386518ae439abaeaf3dee5608d1d)
 
-* [Merge pull request #11873 from slavapestov/divorce-clang-importer-from-sema-part-4](https://github.com/apple/swift/commit/8998ff563573adc2ddd703d3b19a11cc5b8edd0f)
+* [Reworking ClangImporter to not depend on Sema, part 4](https://github.com/apple/swift/commit/8998ff563573adc2ddd703d3b19a11cc5b8edd0f)
 
 * [SR-5636](https://bugs.swift.org/browse/SR-5636) - [runtime: Add some missing -isNSWhatever__ methods to SwiftObject. (#11891)](https://github.com/apple/swift/commit/0bae31c1f0e84b1b44e1991bfc4b2e05a8693674)
 
-* [SR-5857SR-5857](https://bugs.swift.org/browse/SR-5857SR-5857) - [changed diagnostics argument name to argument label SR-5857 (#11894)](https://github.com/apple/swift/commit/81ab8a302d99c53eea0c8bc6ade2585df57e088c)
+* [SR-5857](https://bugs.swift.org/browse/SR-5857) - [changed diagnostics argument name to argument label](https://github.com/apple/swift/commit/81ab8a302d99c53eea0c8bc6ade2585df57e088c)
 
-* [Merge pull request #11867 from jrose-apple/ClangImporter-episode-V](https://github.com/apple/swift/commit/82fa3627a8cfb8fd745a317af9adb36bb78d1e1d)
+* [ClangImporter: Support Swift 5 API notes](https://github.com/apple/swift/commit/82fa3627a8cfb8fd745a317af9adb36bb78d1e1d)
 
 * [Data slice mutation support (#11939)](https://github.com/apple/swift/commit/c8bbce6ef1dc9eed45af660b388dbf1cc3f5be0c)
 
