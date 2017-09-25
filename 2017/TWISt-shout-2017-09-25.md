@@ -5,7 +5,7 @@ This Week In Swift for the week of 2017-09-18 to 2017-09-24
 
 * [Swift 4.0 released!](https://lists.swift.org/pipermail/swift-evolution-announce/2017-September/000402.html)
 
-* [Now have initial platform support for](https://github.com/apple/swift/commit/aee81d272f3147c0a9b610956e72a7c0772b8bcb) [Haiku OS](https://www.haiku-os.org/)!
+* Now have [initial platform support](https://github.com/apple/swift/commit/aee81d272f3147c0a9b610956e72a7c0772b8bcb) for [Haiku OS](https://www.haiku-os.org/)!
 
 ## Code Updates
 
@@ -64,8 +64,6 @@ This Week In Swift for the week of 2017-09-18 to 2017-09-24
 
 * [Introduce BenchmarkInfo and BenchmarkCategories.](https://github.com/apple/swift/commit/d9af4c5f456252ac30768a6b349d35ea7d4f29b0)
 
-* [Add Initial platform support for Haiku](https://github.com/apple/swift/commit/aee81d272f3147c0a9b610956e72a7c0772b8bcb)
-
 ### swift-corelibs
 
 #### Foundation Classes
@@ -101,7 +99,7 @@ This Week In Swift for the week of 2017-09-18 to 2017-09-24
 
 * [Error recovery hook](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170918/039871.html)
 
-* [modern URL types](https://www.bose.com/en_us/products/speakers/stereo_speakers/201-direct-reflecting-speaker-system.html#v=201_black)
+* [modern URL types](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170918/039870.html)
   * [...continued](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170918/039876.html)
 
 ### Proposals Up For Review
