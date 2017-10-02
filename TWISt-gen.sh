@@ -64,7 +64,7 @@ do
     COMMITCOUNT_ALL=`git log --oneline --after="${STARTDATE}" --before="${ENDDATE}" | wc -l`
     if [ ${COMMITCOUNT_ALL} != 0 ]; then
 	COMMITLOG="../../commit-logs/${i}.txt"
-	COMMIT_HASHES=`git log --reverse --after="${STARTDATE}" --before="${ENDDATE}" --format=format:%H`
+	COMMIT_HASHES=`git log --reverse --topo-order --after="${STARTDATE}" --before="${ENDDATE}" --format=format:%H`
 	for HASH in ${COMMIT_HASHES}; do
 	    SUBJECT=`git log -1 ${HASH} | grep -v '^Merge:' | head -5 | tail -1 | sed 's/^[ \t]*//' | sed 's/[ \t]*\\$//' | sed 's/^\[\(.*\)\]/\1:/'`
 	    SWIFT_BUG=`git log -1 ${HASH} | perl -n -e '/(SR-[0-9]+)/ && print $1'`
