@@ -38,7 +38,7 @@ This Week In Swift for the week of 2017-10-02 to 2017-10-08
 
 * [SR-4486](https://bugs.swift.org/browse/SR-4486) - [Conformance checking: Check 'inout' when matching witnesses.](https://github.com/apple/swift/commit/7f6a71c17391b5300a63f1324b40d4865e4487e9)
 
-* [SR-6003](https://bugs.swift.org/browse/SR-6003) - [stdlib] Dictionary.Keys, .Values: Implement Custom[Debug:StringConvertible.](https://github.com/apple/swift/commit/4ff5a4106121371f4ac7a85df273413739a7b4ab)
+* [SR-6003](https://bugs.swift.org/browse/SR-6003) - [stdlib: Dictionary.Keys, .Values: Implement Custom[Debug]StringConvertible.](https://github.com/apple/swift/commit/4ff5a4106121371f4ac7a85df273413739a7b4ab)
 
 * [SR-6062](https://bugs.swift.org/browse/SR-6062) - [Sema: Coerce the type of the index expression in a key path component to match the subscript decl's index type.](https://github.com/apple/swift/commit/d3a2a0ff8228052f536515bbdb6019c0ccb1d971)
 
@@ -58,7 +58,7 @@ This Week In Swift for the week of 2017-10-02 to 2017-10-08
 
 ## Evolution
 * [A path forward on rationalizing unicode identifiers and operators](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20171002/040040.html)
-   * [...continues here](A path forward on rationalizing unicode identifiers and operators)
+   * [...continues here](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20171002/040170.html)
    * [...and here](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20171002/040194.html)
    * [...with a fork here](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20171002/040197.html)
    * [superscripts, subscripts, etc.](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20171002/040111.html)
