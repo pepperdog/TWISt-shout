@@ -3,6 +3,8 @@ This Week In Swift for the week of 2017- to 2017-
 
 * check out new stuff from https://gist.github.com/erica/4ee7bd4979a54c5466e6
 * check out new proposals showing up at https://github.com/apple/swift-evolution/tree/master/proposals
+* check out new blog entries at https://swift.org/blog/
+* check out Friday Q&A at https://mikeash.com/pyblog/
 
 ## Hot News
 
