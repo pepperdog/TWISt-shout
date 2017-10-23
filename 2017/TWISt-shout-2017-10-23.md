@@ -27,7 +27,7 @@ This Week In Swift for the week of 2017-10-16 to 2017-10-22
 
 * [SR-6138](https://bugs.swift.org/browse/SR-6138) - [Demangler: fix demangling and remangling of associated type paths.](https://github.com/apple/swift/commit/e21b9124eed37996a27597de592b2fdcd9633715)
 
-* [SR-2660](https://bugs.swift.org/browse/SR-2660SR-2660) - [Driver: Handle .swiftmodule inputs](https://github.com/apple/swift/commit/b81ad22cab42e8f39005016afe5d8396ac04db7c)
+* [SR-2660](https://bugs.swift.org/browse/SR-2660) - [Driver: Handle .swiftmodule inputs](https://github.com/apple/swift/commit/b81ad22cab42e8f39005016afe5d8396ac04db7c)
 
 * [SR-6195](https://bugs.swift.org/browse/SR-6195) - [Fix crash parsing #available with missing version.](https://github.com/apple/swift/commit/03d6f25c451b4a89a19dccdbcade851c34a4d4ae)
 
