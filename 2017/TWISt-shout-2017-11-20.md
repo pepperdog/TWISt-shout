@@ -45,9 +45,9 @@ This Week In Swift for the week of 2017-11-13 to 2017-11-19
 
 * [SR-6103](https://bugs.swift.org/browse/SR-6103) - [Exclusivity: Diagnose when noescape closure is passed via reabstraction thunk](https://github.com/apple/swift/commit/cf9a09e18dba7a7fe0506381589fbf0f4bb99a98)
 
-* [SE-0054: Rework diagnostics for IUOs and revise Swift 3 /4 semantics.](https://github.com/apple/swift/commit/8b55a0f61bed9606d968a12384f778fa655888b8)
+* [SE-0054](https://github.com/apple/swift-evolution/blob/master/proposals/0054-abolish-iuo.md) - [Rework diagnostics for IUOs and revise Swift 3 /4 semantics.](https://github.com/apple/swift/commit/8b55a0f61bed9606d968a12384f778fa655888b8)
 
-* [SE-0184](https://github.com/apple/swift-evolution/blob/master/proposals/0184-unsafe-pointers-add-missing.md) - [implement SE-0184: add allocation methods to Unsafe buffer pointers, drop all parameters from deallocation, adjust namings, and add repeated-value assignment methods](https://github.com/apple/swift/commit/c85880899d90bc018dc8f17f2ee35cdb7aa6840c)
+* [SE-0184](https://github.com/apple/swift-evolution/blob/master/proposals/0184-unsafe-pointers-add-missing.md) - [add allocation methods to Unsafe buffer pointers, drop all parameters from deallocation, adjust namings, and add repeated-value assignment methods](https://github.com/apple/swift/commit/c85880899d90bc018dc8f17f2ee35cdb7aa6840c)
 
 ### swift-corelibs
 #### Foundation Classes
