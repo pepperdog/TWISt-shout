@@ -57,8 +57,6 @@ This Week In Swift for the week of 2017-11-06 to 2017-11-12
 * [NSURL](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSURL.swift) - Change NSURL.description to match Darwin
 * [ProcessInfo](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/ProcessInfo.swift) - Fix a couple more IUOs that were supposed to be banned by SE-0054.
 * [URLComponents](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/URLComponents.swift) - Simplified URLComponents getters; URLComponents Codable conformance
-* [HTTPBodySource](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/URLSession/http/HTTPBodySource.swift) - Documentation changes
-* [MultiHandle](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/URLSession/http/MultiHandle.swift) - Documentation changes
 
 #### Other Updates
 * [Announcement: New Swift Automatic Sign Key](https://lists.swift.org/pipermail/swift-corelibs-dev/Week-of-Mon-20171106/001328.html)
