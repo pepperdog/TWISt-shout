@@ -1,11 +1,6 @@
 # TWISt-shout Newsletter 2017-11-20
 This Week In Swift for the week of 2017-11-13 to 2017-11-19
 
-* check out new stuff from https://gist.github.com/erica/4ee7bd4979a54c5466e6
-* check out new proposals showing up at https://github.com/apple/swift-evolution/tree/master/proposals
-* check out new blog entries at https://swift.org/blog/
-* check out Friday Q&A at https://mikeash.com/pyblog/
-
 ## Hot News
 * [Forums for swift.org workgroup: looking for	volunteers](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20171113/041355.html)
 
@@ -24,8 +19,6 @@ This Week In Swift for the week of 2017-11-13 to 2017-11-19
 * swift-llvm:80 - Daniel Sanders (19), Tom Stellard (10), Reid Kleckner (9)
 * swift-llbuild:1 - Daniel Dunbar (1)
 * swift-evolution:10 - Ben Rimmington (4), Ted Kremenek (2), John McCall (1)
-
-### Commit Message of the Week
 
 ### swift
 * [Add begin_apply, abort_apply, and end_apply instructions to allow yield_once coroutines to be executed](https://github.com/apple/swift/commit/045998544f7ddea4c9c629ddafe38166e56aab05)
@@ -75,12 +68,6 @@ This Week In Swift for the week of 2017-11-13 to 2017-11-19
 
 * [Fix CFSwiftStringGetBytes on big endian](https://github.com/apple/swift-corelibs-foundation/commit/c13b850c9351e3d98cef8f39d4d0e506e3ef315f)
 
-### swift-build
-
-### swift-package-manager
-
-### swift-lldb
-
 ## Dev
 * [Ongoing work related to compilation performance](https://lists.swift.org/pipermail/swift-dev/Week-of-Mon-20171113/006001.html)
 
@@ -105,25 +92,14 @@ This Week In Swift for the week of 2017-11-13 to 2017-11-19
 
 * [Add `match` statement as `switch`-like syntax alternative to `if case` pattern matching](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20171113/041431.html)
 
-### New Proposals
-
 ### Proposals Up For Review
 * [SE-0187](https://github.com/apple/swift-evolution/blob/master/proposals/0187-introduce-filtermap.md) (Nov 20) - \[Accepted and Focused Re-review\] [Introduce Sequence.filterMap(_:)](https://lists.swift.org/pipermail/swift-evolution-announce/2017-November/000409.html)
 
 * [SE-0189](https://github.com/apple/swift-evolution/blob/master/proposals/0189-restrict-cross-module-struct-initializers.md) (Nov 21) - [Restrict Cross-module	Struct Initializers](https://lists.swift.org/pipermail/swift-evolution-announce/2017-November/000408.html)
 
 * [SE-0190](https://github.com/apple/swift-evolution/blob/master/proposals/0190-target-environment-platform-condition.md) (Nov 24) -  [Target environment	platform condition](https://lists.swift.org/pipermail/swift-evolution-announce/2017-November/000410.html)
-
-### Proposals Accepted
-
-### Proposals Rejected
-
-### Proposals Deferred
   
 ### Draft Proposals
 * [Synthesizing Concurrency: A Pitch For High-Level Abstractions & Low-Level Intelligence](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20171113/041411.html)
 
 * [Introduce User-defined "Dynamic Member	Lookup" Types](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20171113/041329.html)
-
-### Cocktail Chatter
-
