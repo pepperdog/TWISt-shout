@@ -1,7 +1,6 @@
 # TWISt-shout Newsletter 2017-11-27
-This Week In Swift for the week of 2017-11-20 to 2017-11-26
-
 ## "Wasted on Turkey" Edition
+This Week In Swift for the week of 2017-11-20 to 2017-11-26
 
 ## Hot News
 * [Swift code will run on Google's Fuchsia OS](https://www.theverge.com/google/2017/11/20/16681556/apple-swift-language-google-fuchsia-os-open-source)
