@@ -33,7 +33,7 @@ This Week In Swift for the week of 2017-11-17 to 2017-12-03
 
 * [SE-0143: Put conditional conformances behind an "experimental" flag.](https://github.com/apple/swift/commit/b59c30c1afe2ae29ee20f14328b3ecb012fc02d6)
 
-* [SR-4005](https://bugs.swift.org/browse/SR-4005SR-4005) - [stdlib: Allow heterogenous comparisons in elementsEqual](https://github.com/apple/swift/commit/ec0d53f96f5cb0059d8f53dd10e01b98eed1a4e4)
+* [SR-4005](https://bugs.swift.org/browse/SR-4005) - [stdlib: Allow heterogenous comparisons in elementsEqual](https://github.com/apple/swift/commit/ec0d53f96f5cb0059d8f53dd10e01b98eed1a4e4)
 
 * [Finish and default-enable named lazy member loading](https://github.com/apple/swift/pull/12843)
 
