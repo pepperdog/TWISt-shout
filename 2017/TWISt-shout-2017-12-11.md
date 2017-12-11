@@ -32,7 +32,7 @@ This Week In Swift for the week of 2017-12-04 to 2017-12-10
 * [NSIndexSet](https://github.com/apple/swift-corelibs-foundation/commits/master/Foundation/NSIndexSet.swift) - Restore the .concurrent options for block-based enumerateObjects(…) methods in NSArray
 
 #### Other Updates
-* [SR-6398](https://bugs.swift.org/browse/SR-6398) - [SR-6398: Ensure CFSTR() is CFRetained because it is not permanent on Linux. (#1351)](https://github.com/apple/swift-corelibs-foundation/commit/6dea2bca690d283907b06befcf405291b2f01d3b)
+* [SR-6398](https://bugs.swift.org/browse/SR-6398) - [Ensure CFSTR() is CFRetained because it is not permanent on Linux. (#1351)](https://github.com/apple/swift-corelibs-foundation/commit/6dea2bca690d283907b06befcf405291b2f01d3b)
 
 * [Reduce test compile times.](https://github.com/apple/swift-corelibs-foundation/commit/9431ced767951af33db7065ec5ad0aa4483a048a)
 
