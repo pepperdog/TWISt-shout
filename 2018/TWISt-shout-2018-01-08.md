@@ -71,8 +71,7 @@ This week's edition delayed due to illness, poor planning, jury duty, and genera
 * [SE-0194](https://github.com/apple/swift-evolution/blob/master/proposals/0194-derived-collection-of-enum-cases.md) - [Derived Collection of	Enum Cases](https://lists.swift.org/pipermail/swift-evolution-announce/2018-January/000419.html)
   
 ### Draft Proposals
-* [Random Unification](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20180101/042450.html)
-  * [Proposal here](https://github.com/Azoy/swift-evolution/blob/3c3c75be3def71ba4be1834702f17d3efec57972/proposals/nnnn-random-unification.md)
+* [Proposal here](https://github.com/Azoy/swift-evolution/blob/3c3c75be3def71ba4be1834702f17d3efec57972/proposals/nnnn-random-unification.md): [Random Unification](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20180101/042450.html)
 
 ### Cocktail Chatter
 * [HoneyBee Framework for concurrency](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20180101/042571.html)
