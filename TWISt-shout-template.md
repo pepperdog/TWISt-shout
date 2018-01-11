@@ -1,5 +1,5 @@
-# TWISt-shout Newsletter 2017-
-This Week In Swift for the week of 2017- to 2017-
+# TWISt-shout Newsletter 2018-
+This Week In Swift for the week of 2018- to 2018-
 
 * check out new stuff from https://gist.github.com/erica/4ee7bd4979a54c5466e6
 * check out new proposals showing up at https://github.com/apple/swift-evolution/tree/master/proposals
