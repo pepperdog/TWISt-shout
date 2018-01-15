@@ -67,9 +67,9 @@ This Week In Swift for the week of 2018-01-08 to 2018-01-14
 * [SR-6716](https://bugs.swift.org/browse/SR-6716) - [Sema: Add a fix-it for integer literal to option set conversion. (#13899)](https://github.com/apple/swift/commit/56d1d6bbd3f61330521a595e33aa274ec3224bf6)
 
 ### swift-corelibs
-* [Finishing up NS[Mutable]AttributedString](https://github.com/apple/swift-corelibs-foundation/commit/ebc61ddf001f6e04529b0e319d9fa212982a4a98)
+* [Finishing up NS[Mutable]AttributedString](https://github.com/apple/swift-corelibs-foundation/pull/1378)
 
-* [Initial implementation of URLProtectionSpace](https://github.com/apple/swift-corelibs-foundation/commit/e57322150172ecded605547e1732654628a6a640)
+* [Initial implementation of URLProtectionSpace](https://github.com/apple/swift-corelibs-foundation/pull/1382)
 
 * [Add initial implementation of URLSession.shared](https://github.com/apple/swift-corelibs-foundation/pull/1365)
 
