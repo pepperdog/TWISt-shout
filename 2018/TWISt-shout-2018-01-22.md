@@ -6,8 +6,6 @@ This Week In Swift for the week of 2018-01-15 to 2018-01-21
 
 * [ABI dashboard](https://swift.org/abi-stability/#data-layout) is [now up](https://forums.swift.org/t/abi-dashboard-now-up/5651)
 
-* [Putting an app on the Android Play Store using Swift](https://forums.swift.org/t/putting-an-app-on-the-android-play-store-using-swift/3427)
-
 * [Translating "The Swift Programming Language" into Arabic](https://forums.swift.org/t/translating-the-swift-programming-language-into-arabic/7913)
 
 * [Call for testing: Catching debug info violations at -Onone](https://forums.swift.org/t/call-for-testing-catching-debug-info-violations-at-onone/7446)
@@ -66,6 +64,6 @@ This Week In Swift for the week of 2018-01-15 to 2018-01-21
 ### Draft Proposals
 * [Proposal](https://github.com/chriseidhof/swift-evolution/blob/287dde8bb8c1a3432014c9bd45663ece8f113589/proposals/nnnn-bool-toggle.md): [Adding toggle to Bool](https://forums.swift.org/t/pitch-adding-toggle-to-bool/7414)
 
-* [Proposal](https://github.com/Dante-Broggi/swift-evolution/blob/unordered-collection/0000-template.md): - [Add protocols for unordered collections (and 'sequences')](https://forums.swift.org/t/add-protocols-for-unordered-collections-and-sequences/8076)
+* [Proposal](https://github.com/Dante-Broggi/swift-evolution/blob/unordered-collection/0000-template.md): [Add protocols for unordered collections (and 'sequences')](https://forums.swift.org/t/add-protocols-for-unordered-collections-and-sequences/8076)
 
 * [Compile Time Function Decorator](https://forums.swift.org/t/compile-time-function-decorator/8180)
