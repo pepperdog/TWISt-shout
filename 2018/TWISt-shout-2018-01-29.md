@@ -61,7 +61,7 @@ This Week In Swift for the week of 2018-01-22 to 2018-01-28
 #### Other Updates
 * [SR-4628](https://bugs.swift.org/browse/SR-4628) - [Avoid crashing when XPath queries return no results.](https://github.com/apple/swift-corelibs-foundation/commit/633cabaa3664ea27c3fbdc6ac87468d86196655d)
 
-* [Merge pull request #319 from Rogiel/feature/freebsd-support](https://github.com/apple/swift-corelibs-libdispatch/commit/f3531a246c97df84c769df06c990b95368ee2e79)
+* [Add support for building libdispatch on FreeBSD](https://github.com/apple/swift-corelibs-libdispatch/pull/319)
 
 ## Dev
 * [Revisiting the choice of sort algorithm](https://forums.swift.org/t/revisiting-the-choice-of-sort-algorithm/8958)
@@ -82,8 +82,6 @@ This Week In Swift for the week of 2018-01-22 to 2018-01-28
 * [SE-0197](https://github.com/apple/swift-evolution/blob/master/proposals/0197-remove-where.md) (Jan 30) - [Adding in-place `remove(where:)` to the Standard Library](https://forums.swift.org/t/se-0197-add-in-place-remove-where/8872)
   
 ### Draft Proposals
-* [Proposal](https://github.com/harlanhaskins/swift-evolution/blob/b5032c4e96e60c795347bac3fd99c90ade3bbf88/proposals/XXXX-diagnostic-directives.md)/[Implementation](https://github.com/apple/swift/pull/14048): [#warning and #error](https://forums.swift.org/t/pitch-warning/2819/36)
-
 * [Proposal](https://github.com/parkera/swift-corelibs-foundation/blob/aa7680103cb6c039a3000fde276907cd9da90deb/Docs/Proposals/0001-jsonencoder-key-strategy.md)/[Implementation](https://github.com/apple/swift/pull/12779): [Key Strategies for JSONEncoder and JSONDecoder](https://forums.swift.org/t/jsonencoder-key-strategies/6958)
 
 ### Cocktail Chatter
