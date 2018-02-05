@@ -22,29 +22,30 @@ echo "${SEP}"
 echo 'These are the change counts in all the projects'
 echo "${SEP}"
 for i in \
-    swift \
-    swift-compiler-rt \
-    swift-corelibs-foundation \
-    swift-corelibs-libdispatch \
-    swift-corelibs-xctest \
-    swift-package-manager \
-    swift-xcode-playground-support \
-    swift-protobuf \
-    swift-protobuf-plugin \
-    swift-protobuf-test-conformance \
-    swift-clang \
-    swift-llvm \
-    swift-lldb \
-    swift-llbuild \
-    swift-integration-tests \
-    swift-cmark \
-    swift-evolution \
-    swift-internals \
-    swift-3-api-guidelines-review \
-    example-package-dealer \
-    example-package-deckofplayingcards \
-    example-package-fisheryates \
-    example-package-playingcard
+	swift \
+	swift-corelibs-foundation \
+	swift-corelibs-libdispatch \
+	swift-corelibs-xctest \
+	swift-clang \
+	swift-llvm \
+	swift-lldb \
+	swift-llbuild \
+	swift-compiler-rt \
+	swift-package-manager \
+	swift-xcode-playground-support \
+	swift-cmark \
+	swift-protobuf \
+	swift-protobuf-plugin \
+	swift-protobuf-test-conformance \
+	swift-integration-tests \
+	swift-source-compat-suite \
+	swift-3-api-guidelines-review \
+	swift-evolution \
+	swift-internals \
+	example-package-dealer \
+	example-package-deckofplayingcards \
+	example-package-fisheryates \
+	example-package-playingcard
 do
     if [ ! -d ${i} ]; then
 	git clone https://github.com/apple/${i}.git > /dev/null 2>&1
