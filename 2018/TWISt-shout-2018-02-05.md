@@ -40,7 +40,7 @@ This Week In Swift for the week of 2018-01-29 to 2018-02-04
 
 * [stdlib: WIP: Eliminate (Closed)CountableRange using conditional conformance (#13342)](https://github.com/apple/swift/commit/9ee856f386f9be65234e25038a91a34fa07acacd)
 
-* [SR-6902](https://bugs.swift.org/browse/SR-6902) - [SwiftSyntax: add pre and post visit function so that client can override a general visiting logic. SR-6902 (#14365)](https://github.com/apple/swift/commit/dac918f870afa11be7c30c7e3d6ce839f8b09494)
+* [SR-6902](https://bugs.swift.org/browse/SR-6902) - [SwiftSyntax: add pre and post visit function so that client can override a general visiting logic)](https://github.com/apple/swift/commit/dac918f870afa11be7c30c7e3d6ce839f8b09494)
 
 * [Runtime: SE-0143: Evaluate conditional conformances at runtime.](https://github.com/apple/swift/commit/93442cf11fd6df455252ed423873a56d17905393)
 
