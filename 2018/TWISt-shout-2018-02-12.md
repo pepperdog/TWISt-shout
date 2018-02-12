@@ -64,7 +64,7 @@ This Week In Swift for the week of 2018-02-05 to 2018-02-11
 * [SE-0195](https://github.com/apple/swift-evolution/blob/master/proposals/0195-dynamic-member-lookup.md) - [Introduce User-defined "Dynamic Member Lookup" Types](https://forums.swift.org/t/accepted-se-0195-introduce-user-defined-dynamic-member-lookup-types/9734)
   
 ### Draft Proposals
-* [Proposal](https://github.com/moiseev/swift-evolution/blob/b62d91642336e60865dd19ad2738cb412f8fa3e8/proposals/0199-strides-revamp.md)/[Implmentation](https://github.com/apple/swift/pull/14288): [Revamp the StrideTo/StrideThrough types](https://forums.swift.org/t/proposal-to-improve-the-standard-library-stride-types/9675)
+* [Proposal](https://github.com/moiseev/swift-evolution/blob/b62d91642336e60865dd19ad2738cb412f8fa3e8/proposals/0199-strides-revamp.md)/[Implementation](https://github.com/apple/swift/pull/14288): [Revamp the StrideTo/StrideThrough types](https://forums.swift.org/t/proposal-to-improve-the-standard-library-stride-types/9675)
 
 * [Proposal](https://github.com/rudkx/swift-evolution/blob/more-consistent-function-representation/proposals/9999-more-consistent-function-representation.md): [More consistent function representation](https://forums.swift.org/t/more-consistent-function-types/9765)
 
